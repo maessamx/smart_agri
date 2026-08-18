@@ -100,7 +100,7 @@ pip install -r requirements.txt
 ```bash
 streamlit run app.py
 ```
-or with reload
+or with hot reload
 ```bash
 streamlit run app.py --server.runOnSave true
 ```
