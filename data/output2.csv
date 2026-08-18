@@ -1,0 +1,811 @@
+country,governorate,governorate_iso,product_category,product,observation_year,season_or_type,area_feddan,production_ton,yield_ton_per_feddan
+Egypt,Al Sharqia,EG-SHR,Fruits,Mango,2016/2017,Perennial fruit crop,33101.0,170943,5.1643
+Egypt,Al Sharqia,EG-SHR,Fruits,Grapes,2016/2017,Perennial fruit crop,2316.0,20750,8.9594
+Egypt,Al Sharqia,EG-SHR,Fruits,Banana,2016/2017,Perennial fruit crop,992.0,20172,20.3347
+Egypt,Al Sharqia,EG-SHR,Fruits,Guava,2016/2017,Perennial fruit crop,230.0,2326,10.113
+Egypt,Al Sharqia,EG-SHR,Fruits,Fig,2016/2017,Perennial fruit crop,111.0,661,5.955
+Egypt,Al Sharqia,EG-SHR,Fruits,Pomegranate,2016/2017,Perennial fruit crop,93.0,662,7.1183
+Egypt,Al Sharqia,EG-SHR,Cereals,Wheat Grain,Winter 2024,Winter,394146.0,1185197.0,3.007
+Egypt,Al Sharqia,EG-SHR,Cereals,Maize Grain (White),Summer 2024,Summer,140950.0,439651.0,3.1192
+Egypt,Al Sharqia,EG-SHR,Cereals,Maize Grain (Yellow),Summer 2024,Summer,55679.0,170529.0,3.0627
+Egypt,Al Sharqia,EG-SHR,Cereals,Rice (Paddy),Cropping year 2024,Cropping year,249264.0,942041.0,3.7793
+Egypt,Al Sharqia,EG-SHR,Cereals,Barley (Unspecified),Winter 2024,Winter,5466.0,8953.0,1.6379
+Egypt,Al Sharqia,EG-SHR,Cereals,Sorghum,Summer 1992,Summer,50.0,NC,
+Egypt,Al Sharqia,EG-SHR,Fodder crops,Berseem,Cropping year 2012,Cropping year,5186.0,74720.0,14.408
+Egypt,Al Sharqia,EG-SHR,Fodder crops,Alfalfa,Cropping year 2019,Cropping year,230.0,8000.0,34.7826
+Egypt,Al Sharqia,EG-SHR,Fodder crops,Green Fodder,Cropping year 2024,Cropping year,86400.0,872793.0,10.1018
+Egypt,Al Sharqia,EG-SHR,Fodder crops,"Clover, tahreesh",Winter 2024,Winter,1266.0,14732.0,11.6367
+Egypt,Al Sharqia,EG-SHR,Vegetables,Tomato,Winter 2024,Winter,38616.0,641451.0,16.611
+Egypt,Al Sharqia,EG-SHR,Vegetables,Potato (unspecified),Cropping year 2024,Cropping year,6133.0,79868.0,13.0227
+Egypt,Al Sharqia,EG-SHR,Vegetables,Onions,Cropping year 2024,Cropping year,32561.0,423086.0,12.9936
+Egypt,Al Sharqia,EG-SHR,Vegetables,Garlic (fresh),Cropping year 2024,Cropping year,323.0,3754.0,11.6223
+Egypt,Al Sharqia,EG-SHR,Vegetables,Eggplant,Winter 2024,Winter,41359.0,833328.0,20.1486
+Egypt,Al Sharqia,EG-SHR,Vegetables,Bell pepper,Cropping year 2024,Cropping year,32849.0,309398.0,9.4188
+Egypt,Al Sharqia,EG-SHR,Vegetables,Cucumber,Cropping year 2021,Cropping year,1663.0,15373.0,9.2441
+Egypt,Al Sharqia,EG-SHR,Vegetables,Squash (Unspecified),Cropping year 2024,Cropping year,4277.0,45061.0,10.5357
+Egypt,Al Sharqia,EG-SHR,Vegetables,Watermelon,Cropping year 2021,Cropping year,2740.0,56750.0,20.7117
+Egypt,Al Sharqia,EG-SHR,Vegetables,Cabbage (Unspecified),Cropping year 2024,Cropping year,3518.0,60121.0,17.0895
+Egypt,Al Sharqia,EG-SHR,Sugar crops,Sugar beet,Cropping year 2024,Cropping year,86937.0,2402330.0,27.633
+Egypt,Al Sharqia,EG-SHR,Sugar crops,Sugarcane (for sugar),Cropping year 2023,Cropping year,2.0,80.0,40.0
+Egypt,Al Sharqia,EG-SHR,Oilseeds,Sesame Seed,Cropping year 2024,Cropping year,17091.0,9809.0,0.5739
+Egypt,Al Sharqia,EG-SHR,Oilseeds,Soybean (unspecified),Cropping year 2024,Cropping year,3671.0,3552.0,0.9676
+Egypt,Alexandria,EG-ALX,Fruits,Mango,2016/2017,Perennial fruit crop,106.0,617,5.8208
+Egypt,Alexandria,EG-ALX,Fruits,Grapes,2016/2017,Perennial fruit crop,687.0,6464,9.409
+Egypt,Alexandria,EG-ALX,Fruits,Banana,2016/2017,Perennial fruit crop,98.0,1469,14.9898
+Egypt,Alexandria,EG-ALX,Fruits,Guava,2016/2017,Perennial fruit crop,4526.0,52315,11.5588
+Egypt,Alexandria,EG-ALX,Fruits,Fig,2016/2017,Perennial fruit crop,1558.0,6627,4.2535
+Egypt,Alexandria,EG-ALX,Fruits,Pomegranate,2016/2017,Perennial fruit crop,225.0,1051,4.6711
+Egypt,Alexandria,EG-ALX,Cereals,Wheat Grain,Winter 2024,Winter,21260.0,58668.0,2.7595
+Egypt,Alexandria,EG-ALX,Cereals,Maize Grain (White),Summer 2024,Summer,8393.0,21962.0,2.6167
+Egypt,Alexandria,EG-ALX,Cereals,Maize Grain (Yellow),Summer 2024,Summer,18125.0,48269.0,2.6631
+Egypt,Alexandria,EG-ALX,Cereals,Rice (Paddy),Cropping year 2024,Cropping year,1496.0,5664.0,3.7861
+Egypt,Alexandria,EG-ALX,Cereals,Barley (Unspecified),Winter 2024,Winter,3994.0,5343.0,1.3378
+Egypt,Alexandria,EG-ALX,Cereals,Sorghum,Cropping year 2014,Cropping year,742.0,2615.0,3.5243
+Egypt,Alexandria,EG-ALX,Fodder crops,Berseem,,,,,
+Egypt,Alexandria,EG-ALX,Fodder crops,Alfalfa,Cropping year 2024,Cropping year,610.0,8540.0,14.0
+Egypt,Alexandria,EG-ALX,Fodder crops,Green Fodder,Cropping year 2024,Cropping year,4501.0,19152.0,4.2551
+Egypt,Alexandria,EG-ALX,Fodder crops,"Clover, tahreesh",Winter 2024,Winter,1400.0,28000.0,20.0
+Egypt,Alexandria,EG-ALX,Vegetables,Tomato,Winter 2024,Winter,30823.0,524337.0,17.0112
+Egypt,Alexandria,EG-ALX,Vegetables,Potato (unspecified),Cropping year 2024,Cropping year,34136.0,394192.0,11.5477
+Egypt,Alexandria,EG-ALX,Vegetables,Onions,Cropping year 2024,Cropping year,1711.0,24123.0,14.0988
+Egypt,Alexandria,EG-ALX,Vegetables,Garlic (fresh),Cropping year 2024,Cropping year,1422.0,14330.0,10.0774
+Egypt,Alexandria,EG-ALX,Vegetables,Eggplant,Winter 2024,Winter,12172.0,111767.0,9.1823
+Egypt,Alexandria,EG-ALX,Vegetables,Bell pepper,Cropping year 2024,Cropping year,15848.0,92720.0,5.8506
+Egypt,Alexandria,EG-ALX,Vegetables,Cucumber,Cropping year 2021,Cropping year,59.0,696.0,11.7966
+Egypt,Alexandria,EG-ALX,Vegetables,Squash (Unspecified),Cropping year 2024,Cropping year,1716.0,13226.0,7.7075
+Egypt,Alexandria,EG-ALX,Vegetables,Watermelon,Cropping year 2021,Cropping year,4471.0,52848.0,11.8202
+Egypt,Alexandria,EG-ALX,Vegetables,Cabbage (Unspecified),Cropping year 2024,Cropping year,1376.0,14248.0,10.3547
+Egypt,Alexandria,EG-ALX,Sugar crops,Sugar beet,Cropping year 2024,Cropping year,8728.0,147901.0,16.9456
+Egypt,Alexandria,EG-ALX,Sugar crops,Sugarcane (for sugar),Cropping year 2024,Cropping year,1.0,20.0,20.0
+Egypt,Alexandria,EG-ALX,Oilseeds,Sesame Seed,Cropping year 2024,Cropping year,3181.0,1548.0,0.4866
+Egypt,Alexandria,EG-ALX,Oilseeds,Soybean (unspecified),Cropping year 2024,Cropping year,1.0,2.0,2.0
+Egypt,Aswan,EG-ASN,Fruits,Mango,2016/2017,Perennial fruit crop,11998.0,21062,1.7555
+Egypt,Aswan,EG-ASN,Fruits,Grapes,2016/2017,Perennial fruit crop,600.0,3684,6.14
+Egypt,Aswan,EG-ASN,Fruits,Banana,2016/2017,Perennial fruit crop,1867.0,25721,13.7766
+Egypt,Aswan,EG-ASN,Fruits,Guava,2016/2017,Perennial fruit crop,224.0,1116,4.9821
+Egypt,Aswan,EG-ASN,Fruits,Fig,2016/2017,Perennial fruit crop,139.0,1206,8.6763
+Egypt,Aswan,EG-ASN,Fruits,Pomegranate,2016/2017,Perennial fruit crop,108.0,229,2.1204
+Egypt,Aswan,EG-ASN,Cereals,Wheat Grain,Winter 2024,Winter,305559.0,852265.0,2.7892
+Egypt,Aswan,EG-ASN,Cereals,Maize Grain (White),Summer 2024,Summer,2219.0,5225.0,2.3547
+Egypt,Aswan,EG-ASN,Cereals,Maize Grain (Yellow),Summer 2024,Summer,21439.0,50305.0,2.3464
+Egypt,Aswan,EG-ASN,Cereals,Rice (Paddy),,,,,
+Egypt,Aswan,EG-ASN,Cereals,Barley (Unspecified),Winter 2024,Winter,4774.0,4657.0,0.9755
+Egypt,Aswan,EG-ASN,Cereals,Sorghum,Cropping year 2024,Cropping year,15732.0,30411.0,1.9331
+Egypt,Aswan,EG-ASN,Fodder crops,Berseem,Cropping year 2012,Cropping year,4339.0,71018.0,16.3674
+Egypt,Aswan,EG-ASN,Fodder crops,Alfalfa,Cropping year 2024,Cropping year,42771.0,2053008.0,48.0
+Egypt,Aswan,EG-ASN,Fodder crops,Green Fodder,Cropping year 2024,Cropping year,41440.0,411344.0,9.9263
+Egypt,Aswan,EG-ASN,Fodder crops,"Clover, tahreesh",,,,,
+Egypt,Aswan,EG-ASN,Vegetables,Tomato,Winter 2024,Winter,2232.0,12998.0,5.8235
+Egypt,Aswan,EG-ASN,Vegetables,Potato (unspecified),Cropping year 2024,Cropping year,3.0,24.0,8.0
+Egypt,Aswan,EG-ASN,Vegetables,Onions,Cropping year 2024,Cropping year,2097.0,28257.0,13.475
+Egypt,Aswan,EG-ASN,Vegetables,Garlic (fresh),Cropping year 2024,Cropping year,1014.0,12618.0,12.4438
+Egypt,Aswan,EG-ASN,Vegetables,Eggplant,Winter 2024,Winter,2134.0,14319.0,6.7099
+Egypt,Aswan,EG-ASN,Vegetables,Bell pepper,Cropping year 2024,Cropping year,2019.0,10173.0,5.0386
+Egypt,Aswan,EG-ASN,Vegetables,Cucumber,Cropping year 2021,Cropping year,307.0,1695.0,5.5212
+Egypt,Aswan,EG-ASN,Vegetables,Squash (Unspecified),Cropping year 2024,Cropping year,160.0,930.0,5.8125
+Egypt,Aswan,EG-ASN,Vegetables,Watermelon,Cropping year 2021,Cropping year,2000.0,20000.0,10.0
+Egypt,Aswan,EG-ASN,Vegetables,Cabbage (Unspecified),Cropping year 2024,Cropping year,321.0,3210.0,10.0
+Egypt,Aswan,EG-ASN,Sugar crops,Sugar beet,Cropping year 2023,Cropping year,1485.0,29700.0,20.0
+Egypt,Aswan,EG-ASN,Sugar crops,Sugarcane (for sugar),Cropping year 2024,Cropping year,72353.0,2935721.0,40.575
+Egypt,Aswan,EG-ASN,Oilseeds,Sesame Seed,Cropping year 2024,Cropping year,4300.0,2580.0,0.6
+Egypt,Aswan,EG-ASN,Oilseeds,Soybean (unspecified),Cropping year 2023,Cropping year,206.0,163.0,0.7913
+Egypt,Asyut,EG-AST,Fruits,Mango,2016/2017,Perennial fruit crop,1861.0,9100,4.8898
+Egypt,Asyut,EG-AST,Fruits,Grapes,2016/2017,Perennial fruit crop,2207.0,30722,13.9203
+Egypt,Asyut,EG-AST,Fruits,Banana,2016/2017,Perennial fruit crop,2248.0,43033,19.1428
+Egypt,Asyut,EG-AST,Fruits,Guava,2016/2017,Perennial fruit crop,294.0,3034,10.3197
+Egypt,Asyut,EG-AST,Fruits,Fig,2016/2017,Perennial fruit crop,62.0,625,10.0806
+Egypt,Asyut,EG-AST,Fruits,Pomegranate,2016/2017,Perennial fruit crop,8539.0,118085,13.8289
+Egypt,Asyut,EG-AST,Cereals,Wheat Grain,Winter 2024,Winter,174757.0,531442.0,3.041
+Egypt,Asyut,EG-AST,Cereals,Maize Grain (White),Summer 2024,Summer,122629.0,348590.3,2.8426
+Egypt,Asyut,EG-AST,Cereals,Maize Grain (Yellow),Summer 2024,Summer,75393.0,221351.9,2.936
+Egypt,Asyut,EG-AST,Cereals,Rice (Paddy),Cropping year 2020,Cropping year,5.0,11.0,2.2
+Egypt,Asyut,EG-AST,Cereals,Barley (Unspecified),Winter 2024,Winter,3229.0,6543.0,2.0263
+Egypt,Asyut,EG-AST,Cereals,Sorghum,Cropping year 2024,Cropping year,49840.0,94725.4,1.9006
+Egypt,Asyut,EG-AST,Fodder crops,Berseem,Cropping year 2012,Cropping year,3009.0,36432.0,12.1077
+Egypt,Asyut,EG-AST,Fodder crops,Alfalfa,Cropping year 2024,Cropping year,4775.0,90910.0,19.0387
+Egypt,Asyut,EG-AST,Fodder crops,Green Fodder,Cropping year 2024,Cropping year,26179.0,419847.0,16.0375
+Egypt,Asyut,EG-AST,Fodder crops,"Clover, tahreesh",Winter 2024,Winter,3727.0,35526.0,9.5321
+Egypt,Asyut,EG-AST,Vegetables,Tomato,Winter 2024,Winter,14323.0,268010.0,18.7119
+Egypt,Asyut,EG-AST,Vegetables,Potato (unspecified),Cropping year 2024,Cropping year,5730.0,77238.0,13.4796
+Egypt,Asyut,EG-AST,Vegetables,Onions,Cropping year 2024,Cropping year,11510.0,190584.0,16.5581
+Egypt,Asyut,EG-AST,Vegetables,Garlic (fresh),Cropping year 2024,Cropping year,3142.0,41160.0,13.0999
+Egypt,Asyut,EG-AST,Vegetables,Eggplant,Winter 2024,Winter,2776.0,29430.0,10.6016
+Egypt,Asyut,EG-AST,Vegetables,Bell pepper,Cropping year 2024,Cropping year,5824.0,50005.0,8.586
+Egypt,Asyut,EG-AST,Vegetables,Cucumber,Cropping year 2021,Cropping year,72.0,962.0,13.3611
+Egypt,Asyut,EG-AST,Vegetables,Squash (Unspecified),Cropping year 2024,Cropping year,18.0,126.0,7.0
+Egypt,Asyut,EG-AST,Vegetables,Watermelon,Cropping year 2020,Cropping year,5.0,60.0,12.0
+Egypt,Asyut,EG-AST,Vegetables,Cabbage (Unspecified),Cropping year 2024,Cropping year,1067.0,12706.0,11.9082
+Egypt,Asyut,EG-AST,Sugar crops,Sugar beet,Cropping year 2024,Cropping year,16608.0,515361.0,31.0309
+Egypt,Asyut,EG-AST,Sugar crops,Sugarcane (for sugar),Cropping year 2024,Cropping year,2724.0,86047.0,31.5885
+Egypt,Asyut,EG-AST,Oilseeds,Sesame Seed,Cropping year 2024,Cropping year,1557.0,872.5,0.5604
+Egypt,Asyut,EG-AST,Oilseeds,Soybean (unspecified),Cropping year 2024,Cropping year,11266.0,12842.083,1.1399
+Egypt,Beheira,EG-BH,Fruits,Mango,2016/2017,Perennial fruit crop,13149.0,50544,3.8439
+Egypt,Beheira,EG-BH,Fruits,Grapes,2016/2017,Perennial fruit crop,10585.0,123528,11.6701
+Egypt,Beheira,EG-BH,Fruits,Banana,2016/2017,Perennial fruit crop,11157.0,206635,18.5207
+Egypt,Beheira,EG-BH,Fruits,Guava,2016/2017,Perennial fruit crop,11383.0,135848,11.9343
+Egypt,Beheira,EG-BH,Fruits,Fig,2016/2017,Perennial fruit crop,500.0,5500,11.0
+Egypt,Beheira,EG-BH,Fruits,Pomegranate,2016/2017,Perennial fruit crop,1958.0,13716,7.0051
+Egypt,Beheira,EG-BH,Cereals,Wheat Grain,Winter 2024,Winter,262721.0,796502.0,3.0317
+Egypt,Beheira,EG-BH,Cereals,Maize Grain (White),Summer 2024,Summer,97993.0,333343.0,3.4017
+Egypt,Beheira,EG-BH,Cereals,Maize Grain (Yellow),Summer 2024,Summer,140752.0,474802.0,3.3733
+Egypt,Beheira,EG-BH,Cereals,Rice (Paddy),Cropping year 2024,Cropping year,186377.0,764146.0,4.1
+Egypt,Beheira,EG-BH,Cereals,Barley (Unspecified),Winter 2024,Winter,171.0,228.0,1.3333
+Egypt,Beheira,EG-BH,Cereals,Sorghum,Summer 1997,Summer,1025.0,NC,
+Egypt,Beheira,EG-BH,Fodder crops,Berseem,Cropping year 2012,Cropping year,17925.0,191576.0,10.6876
+Egypt,Beheira,EG-BH,Fodder crops,Alfalfa,Cropping year 2016,Cropping year,5000.0,169755.0,33.951
+Egypt,Beheira,EG-BH,Fodder crops,Green Fodder,Cropping year 2024,Cropping year,148484.0,256062.0,1.7245
+Egypt,Beheira,EG-BH,Fodder crops,"Clover, tahreesh",Winter 2024,Winter,47282.0,617406.0,13.058
+Egypt,Beheira,EG-BH,Vegetables,Tomato,Winter 2024,Winter,40278.0,559352.0,13.8873
+Egypt,Beheira,EG-BH,Vegetables,Potato (unspecified),Cropping year 2024,Cropping year,87530.0,1141513.0,13.0414
+Egypt,Beheira,EG-BH,Vegetables,Onions,Cropping year 2024,Cropping year,31979.0,476352.0,14.8958
+Egypt,Beheira,EG-BH,Vegetables,Garlic (fresh),Cropping year 2024,Cropping year,1519.0,16183.0,10.6537
+Egypt,Beheira,EG-BH,Vegetables,Eggplant,Winter 2024,Winter,27377.0,263947.0,9.6412
+Egypt,Beheira,EG-BH,Vegetables,Bell pepper,Cropping year 2024,Cropping year,24124.0,203686.0,8.4433
+Egypt,Beheira,EG-BH,Vegetables,Cucumber,Cropping year 2021,Cropping year,2180.0,17124.0,7.855
+Egypt,Beheira,EG-BH,Vegetables,Squash (Unspecified),Cropping year 2024,Cropping year,4719.0,34447.0,7.2996
+Egypt,Beheira,EG-BH,Vegetables,Watermelon,Cropping year 2021,Cropping year,620.0,6220.0,10.0323
+Egypt,Beheira,EG-BH,Vegetables,Cabbage (Unspecified),Cropping year 2024,Cropping year,3554.0,36984.0,10.4063
+Egypt,Beheira,EG-BH,Sugar crops,Sugar beet,Cropping year 2024,Cropping year,31421.0,831015.0,26.4478
+Egypt,Beheira,EG-BH,Sugar crops,Sugarcane (for sugar),Cropping year 2024,Cropping year,342.0,9863.0,28.8392
+Egypt,Beheira,EG-BH,Oilseeds,Sesame Seed,Cropping year 2024,Cropping year,14210.0,8652.0,0.6089
+Egypt,Beheira,EG-BH,Oilseeds,Soybean (unspecified),Cropping year 2024,Cropping year,23.0,33.0,1.4348
+Egypt,Beni Suef,EG-BNS,Fruits,Mango,2016/2017,Perennial fruit crop,528.0,2453,4.6458
+Egypt,Beni Suef,EG-BNS,Fruits,Grapes,2016/2017,Perennial fruit crop,6201.0,62094,10.0135
+Egypt,Beni Suef,EG-BNS,Fruits,Banana,2016/2017,Perennial fruit crop,2535.0,38238,15.084
+Egypt,Beni Suef,EG-BNS,Fruits,Guava,2016/2017,Perennial fruit crop,198.0,1199,6.0556
+Egypt,Beni Suef,EG-BNS,Fruits,Fig,2016/2017,Perennial fruit crop,100.0,700,7.0
+Egypt,Beni Suef,EG-BNS,Fruits,Pomegranate,2016/2017,Perennial fruit crop,555.0,4343,7.8252
+Egypt,Beni Suef,EG-BNS,Cereals,Wheat Grain,Winter 2024,Winter,119267.0,367935.0,3.085
+Egypt,Beni Suef,EG-BNS,Cereals,Maize Grain (White),Summer 2024,Summer,155477.0,478507.9,3.0777
+Egypt,Beni Suef,EG-BNS,Cereals,Maize Grain (Yellow),Summer 2024,Summer,25861.0,76526.4,2.9591
+Egypt,Beni Suef,EG-BNS,Cereals,Rice (Paddy),Cropping year 2024,Cropping year,866.0,2684.9,3.1003
+Egypt,Beni Suef,EG-BNS,Cereals,Barley (Unspecified),Winter 2024,Winter,18.0,24.0,1.3333
+Egypt,Beni Suef,EG-BNS,Cereals,Sorghum,Cropping year 2024,Cropping year,4079.0,8287.5,2.0317
+Egypt,Beni Suef,EG-BNS,Fodder crops,Berseem,Cropping year 2012,Cropping year,350.0,700.0,2.0
+Egypt,Beni Suef,EG-BNS,Fodder crops,Alfalfa,Cropping year 2024,Cropping year,481.0,21114.0,43.896
+Egypt,Beni Suef,EG-BNS,Fodder crops,Green Fodder,Cropping year 2024,Cropping year,45839.0,64407.0,1.4051
+Egypt,Beni Suef,EG-BNS,Fodder crops,"Clover, tahreesh",Winter 2023,Winter,7813.0,40628.0,5.2001
+Egypt,Beni Suef,EG-BNS,Vegetables,Tomato,Winter 2024,Winter,19455.0,350848.0,18.0338
+Egypt,Beni Suef,EG-BNS,Vegetables,Potato (unspecified),Cropping year 2024,Cropping year,13709.0,146670.0,10.6988
+Egypt,Beni Suef,EG-BNS,Vegetables,Onions,Cropping year 2024,Cropping year,17772.0,204740.0,11.5204
+Egypt,Beni Suef,EG-BNS,Vegetables,Garlic (fresh),Cropping year 2024,Cropping year,16993.0,171454.0,10.0897
+Egypt,Beni Suef,EG-BNS,Vegetables,Eggplant,Winter 2024,Winter,2468.0,16197.0,6.5628
+Egypt,Beni Suef,EG-BNS,Vegetables,Bell pepper,Cropping year 2024,Cropping year,6443.0,30495.0,4.733
+Egypt,Beni Suef,EG-BNS,Vegetables,Cucumber,Cropping year 2021,Cropping year,766.0,6128.0,8.0
+Egypt,Beni Suef,EG-BNS,Vegetables,Squash (Unspecified),Cropping year 2024,Cropping year,783.0,4738.0,6.0511
+Egypt,Beni Suef,EG-BNS,Vegetables,Watermelon,Cropping year 2021,Cropping year,250.0,2500.0,10.0
+Egypt,Beni Suef,EG-BNS,Vegetables,Cabbage (Unspecified),Cropping year 2024,Cropping year,665.0,9423.0,14.1699
+Egypt,Beni Suef,EG-BNS,Sugar crops,Sugar beet,Cropping year 2024,Cropping year,26232.0,657395.0,25.0608
+Egypt,Beni Suef,EG-BNS,Sugar crops,Sugarcane (for sugar),Cropping year 2024,Cropping year,315.0,6594.0,20.9333
+Egypt,Beni Suef,EG-BNS,Oilseeds,Sesame Seed,Cropping year 2024,Cropping year,8869.0,5542.9,0.625
+Egypt,Beni Suef,EG-BNS,Oilseeds,Soybean (unspecified),Cropping year 2024,Cropping year,12263.0,20111.32,1.64
+Egypt,Cairo,EG-C,Fruits,Mango,2016/2017,Perennial fruit crop,4895.0,25896,5.2903
+Egypt,Cairo,EG-C,Fruits,Grapes,2016/2017,Perennial fruit crop,77.0,194,2.5195
+Egypt,Cairo,EG-C,Fruits,Banana,2016/2017,Perennial fruit crop,0.0,0,
+Egypt,Cairo,EG-C,Fruits,Guava,2016/2017,Perennial fruit crop,5.0,16,3.2
+Egypt,Cairo,EG-C,Fruits,Fig,2016/2017,Perennial fruit crop,29.0,203,7.0
+Egypt,Cairo,EG-C,Fruits,Pomegranate,2016/2017,Perennial fruit crop,26.0,170,6.5385
+Egypt,Cairo,EG-C,Cereals,Wheat Grain,Winter 2024,Winter,21.0,45.0,2.1429
+Egypt,Cairo,EG-C,Cereals,Maize Grain (White),Summer 2024,Summer,20.0,56.0,2.8
+Egypt,Cairo,EG-C,Cereals,Maize Grain (Yellow),Cropping year 2016,Cropping year,2.0,6.0,3.0
+Egypt,Cairo,EG-C,Cereals,Rice (Paddy),Cropping year 2012,Cropping year,2.381,10.0,4.2
+Egypt,Cairo,EG-C,Cereals,Barley (Unspecified),Winter 2021,Winter,11.0,20.0,1.8182
+Egypt,Cairo,EG-C,Cereals,Sorghum,,,,,
+Egypt,Cairo,EG-C,Fodder crops,Berseem,Cropping year 2012,Cropping year,994.0,10545.0,10.6087
+Egypt,Cairo,EG-C,Fodder crops,Alfalfa,,,,,
+Egypt,Cairo,EG-C,Fodder crops,Green Fodder,Cropping year 2024,Cropping year,141.0,2084.0,14.7801
+Egypt,Cairo,EG-C,Fodder crops,"Clover, tahreesh",Cropping year 2017,Cropping year,5878.0,94985.0,16.1594
+Egypt,Cairo,EG-C,Vegetables,Tomato,Winter 2024,Winter,215.0,1960.0,9.1163
+Egypt,Cairo,EG-C,Vegetables,Potato (unspecified),Cropping year 2024,Cropping year,38.0,355.0,9.3421
+Egypt,Cairo,EG-C,Vegetables,Onions,Cropping year 2023,Cropping year,2.0,30.0,15.0
+Egypt,Cairo,EG-C,Vegetables,Garlic (fresh),Cropping year 2021,Cropping year,3.0,6.0,2.0
+Egypt,Cairo,EG-C,Vegetables,Eggplant,Winter 2024,Winter,150.0,1570.0,10.4667
+Egypt,Cairo,EG-C,Vegetables,Bell pepper,Cropping year 2024,Cropping year,190.0,1160.0,6.1053
+Egypt,Cairo,EG-C,Vegetables,Cucumber,Cropping year 2021,Cropping year,1.0,13.0,13.0
+Egypt,Cairo,EG-C,Vegetables,Squash (Unspecified),Cropping year 2024,Cropping year,130.0,1085.0,8.3462
+Egypt,Cairo,EG-C,Vegetables,Watermelon,,,,,
+Egypt,Cairo,EG-C,Vegetables,Cabbage (Unspecified),Cropping year 2024,Cropping year,3.0,10.0,3.3333
+Egypt,Cairo,EG-C,Sugar crops,Sugar beet,,,,,
+Egypt,Cairo,EG-C,Sugar crops,Sugarcane (for sugar),Cropping year 2019,Cropping year,9.0,261.0,29.0
+Egypt,Cairo,EG-C,Oilseeds,Sesame Seed,Cropping year 2024,Cropping year,6.0,2.0,0.3333
+Egypt,Cairo,EG-C,Oilseeds,Soybean (unspecified),,,,,
+Egypt,Dakahlia,EG-DK,Fruits,Mango,2016/2017,Perennial fruit crop,33.0,112,3.3939
+Egypt,Dakahlia,EG-DK,Fruits,Grapes,2016/2017,Perennial fruit crop,6005.0,51258,8.5359
+Egypt,Dakahlia,EG-DK,Fruits,Banana,2016/2017,Perennial fruit crop,865.0,17582,20.326
+Egypt,Dakahlia,EG-DK,Fruits,Guava,2016/2017,Perennial fruit crop,30.0,215,7.1667
+Egypt,Dakahlia,EG-DK,Fruits,Fig,2016/2017,Perennial fruit crop,2.0,9,4.5
+Egypt,Dakahlia,EG-DK,Fruits,Pomegranate,2016/2017,Perennial fruit crop,0.0,0,
+Egypt,Dakahlia,EG-DK,Cereals,Wheat Grain,Winter 2024,Winter,252297.0,702692.0,2.7852
+Egypt,Dakahlia,EG-DK,Cereals,Maize Grain (White),Summer 2024,Summer,60370.0,223325.0,3.6993
+Egypt,Dakahlia,EG-DK,Cereals,Maize Grain (Yellow),Summer 2024,Summer,38872.0,145278.0,3.7373
+Egypt,Dakahlia,EG-DK,Cereals,Rice (Paddy),Cropping year 2024,Cropping year,362421.0,1467192.0,4.0483
+Egypt,Dakahlia,EG-DK,Cereals,Barley (Unspecified),Winter 2024,Winter,94.0,182.0,1.9362
+Egypt,Dakahlia,EG-DK,Cereals,Sorghum,Nili 1994,Nili,27675.0,NC,
+Egypt,Dakahlia,EG-DK,Fodder crops,Berseem,,,,,
+Egypt,Dakahlia,EG-DK,Fodder crops,Alfalfa,,,,,
+Egypt,Dakahlia,EG-DK,Fodder crops,Green Fodder,Cropping year 2024,Cropping year,43424.0,255468.0,5.8831
+Egypt,Dakahlia,EG-DK,Fodder crops,"Clover, tahreesh",Winter 2024,Winter,17529.0,147193.0,8.3971
+Egypt,Dakahlia,EG-DK,Vegetables,Tomato,Winter 2024,Winter,10609.0,136261.0,12.8439
+Egypt,Dakahlia,EG-DK,Vegetables,Potato (unspecified),Cropping year 2024,Cropping year,73247.0,1071883.0,14.6338
+Egypt,Dakahlia,EG-DK,Vegetables,Onions,Cropping year 2024,Cropping year,45614.0,752331.0,16.4934
+Egypt,Dakahlia,EG-DK,Vegetables,Garlic (fresh),Cropping year 2024,Cropping year,1122.0,12961.0,11.5517
+Egypt,Dakahlia,EG-DK,Vegetables,Eggplant,Winter 2024,Winter,6702.0,133449.0,19.9118
+Egypt,Dakahlia,EG-DK,Vegetables,Bell pepper,Cropping year 2024,Cropping year,2424.0,22924.0,9.4571
+Egypt,Dakahlia,EG-DK,Vegetables,Cucumber,Cropping year 2021,Cropping year,2236.0,19675.0,8.7992
+Egypt,Dakahlia,EG-DK,Vegetables,Squash (Unspecified),Cropping year 2024,Cropping year,590.0,4128.0,6.9966
+Egypt,Dakahlia,EG-DK,Vegetables,Watermelon,Cropping year 2021,Cropping year,15775.0,268175.0,17.0
+Egypt,Dakahlia,EG-DK,Vegetables,Cabbage (Unspecified),Cropping year 2024,Cropping year,2756.0,37432.0,13.582
+Egypt,Dakahlia,EG-DK,Sugar crops,Sugar beet,Cropping year 2024,Cropping year,78369.0,1816356.0,23.177
+Egypt,Dakahlia,EG-DK,Sugar crops,Sugarcane (for sugar),Cropping year 2024,Cropping year,194.0,7624.0,39.299
+Egypt,Dakahlia,EG-DK,Oilseeds,Sesame Seed,Cropping year 2024,Cropping year,157.0,110.0,0.7006
+Egypt,Dakahlia,EG-DK,Oilseeds,Soybean (unspecified),Cropping year 2024,Cropping year,27231.0,30503.0,1.1202
+Egypt,Damietta,EG-DT,Fruits,Mango,2016/2017,Perennial fruit crop,1705.0,9480,5.5601
+Egypt,Damietta,EG-DT,Fruits,Grapes,2016/2017,Perennial fruit crop,8.0,62,7.75
+Egypt,Damietta,EG-DT,Fruits,Banana,2016/2017,Perennial fruit crop,141.0,1609,11.4113
+Egypt,Damietta,EG-DT,Fruits,Guava,2016/2017,Perennial fruit crop,3661.0,40546,11.0751
+Egypt,Damietta,EG-DT,Fruits,Fig,2016/2017,Perennial fruit crop,0.0,0,
+Egypt,Damietta,EG-DT,Fruits,Pomegranate,2016/2017,Perennial fruit crop,10.0,119,11.9
+Egypt,Damietta,EG-DT,Cereals,Wheat Grain,Winter 2024,Winter,36138.0,98327.0,2.7209
+Egypt,Damietta,EG-DT,Cereals,Maize Grain (White),Summer 2024,Summer,114.0,267.0,2.3421
+Egypt,Damietta,EG-DT,Cereals,Maize Grain (Yellow),Summer 2023,Summer,78.0,285.0,3.6538
+Egypt,Damietta,EG-DT,Cereals,Rice (Paddy),Cropping year 2024,Cropping year,44309.0,167960.0,3.7907
+Egypt,Damietta,EG-DT,Cereals,Barley (Unspecified),Winter 2024,Winter,54.0,81.0,1.5
+Egypt,Damietta,EG-DT,Cereals,Sorghum,,,,,
+Egypt,Damietta,EG-DT,Fodder crops,Berseem,Cropping year 2012,Cropping year,4030.0,41204.0,10.2243
+Egypt,Damietta,EG-DT,Fodder crops,Alfalfa,,,,,
+Egypt,Damietta,EG-DT,Fodder crops,Green Fodder,Cropping year 2024,Cropping year,19801.0,128994.0,6.5145
+Egypt,Damietta,EG-DT,Fodder crops,"Clover, tahreesh",Winter 2024,Winter,1320.0,19800.0,15.0
+Egypt,Damietta,EG-DT,Vegetables,Tomato,Winter 2024,Winter,3440.0,50860.0,14.7849
+Egypt,Damietta,EG-DT,Vegetables,Potato (unspecified),Cropping year 2024,Cropping year,16225.0,199359.0,12.2871
+Egypt,Damietta,EG-DT,Vegetables,Onions,Cropping year 2024,Cropping year,5761.0,84488.0,14.6655
+Egypt,Damietta,EG-DT,Vegetables,Garlic (fresh),Cropping year 2024,Cropping year,273.0,2362.0,8.652
+Egypt,Damietta,EG-DT,Vegetables,Eggplant,Winter 2024,Winter,1288.0,17169.0,13.33
+Egypt,Damietta,EG-DT,Vegetables,Bell pepper,Cropping year 2024,Cropping year,353.0,2186.0,6.1926
+Egypt,Damietta,EG-DT,Vegetables,Cucumber,Cropping year 2021,Cropping year,125.0,883.0,7.064
+Egypt,Damietta,EG-DT,Vegetables,Squash (Unspecified),Cropping year 2024,Cropping year,161.0,1304.0,8.0994
+Egypt,Damietta,EG-DT,Vegetables,Watermelon,Cropping year 2021,Cropping year,374.0,7383.0,19.7406
+Egypt,Damietta,EG-DT,Vegetables,Cabbage (Unspecified),Cropping year 2024,Cropping year,71.0,722.0,10.169
+Egypt,Damietta,EG-DT,Sugar crops,Sugar beet,Cropping year 2024,Cropping year,4953.0,98334.0,19.8534
+Egypt,Damietta,EG-DT,Sugar crops,Sugarcane (for sugar),Cropping year 2020,Cropping year,2.0,53.0,26.5
+Egypt,Damietta,EG-DT,Oilseeds,Sesame Seed,Cropping year 2024,Cropping year,4.0,2.0,0.5
+Egypt,Damietta,EG-DT,Oilseeds,Soybean (unspecified),Cropping year 2024,Cropping year,12.0,15.0,1.25
+Egypt,Faiyum,EG-FYM,Fruits,Mango,2016/2017,Perennial fruit crop,7688.0,38116,4.9579
+Egypt,Faiyum,EG-FYM,Fruits,Grapes,2016/2017,Perennial fruit crop,1235.0,9407,7.617
+Egypt,Faiyum,EG-FYM,Fruits,Banana,2016/2017,Perennial fruit crop,5.0,100,20.0
+Egypt,Faiyum,EG-FYM,Fruits,Guava,2016/2017,Perennial fruit crop,93.0,432,4.6452
+Egypt,Faiyum,EG-FYM,Fruits,Fig,2016/2017,Perennial fruit crop,77.0,1342,17.4286
+Egypt,Faiyum,EG-FYM,Fruits,Pomegranate,2016/2017,Perennial fruit crop,13.0,55,4.2308
+Egypt,Faiyum,EG-FYM,Cereals,Wheat Grain,Winter 2024,Winter,171524.0,489860.0,2.8559
+Egypt,Faiyum,EG-FYM,Cereals,Maize Grain (White),Summer 2024,Summer,79570.1,221013.7,2.7776
+Egypt,Faiyum,EG-FYM,Cereals,Maize Grain (Yellow),Summer 2024,Summer,7891.0,20669.7,2.6194
+Egypt,Faiyum,EG-FYM,Cereals,Rice (Paddy),Cropping year 2024,Cropping year,8081.0,30708.0,3.8
+Egypt,Faiyum,EG-FYM,Cereals,Barley (Unspecified),Winter 2024,Winter,3455.0,6882.0,1.9919
+Egypt,Faiyum,EG-FYM,Cereals,Sorghum,Cropping year 2024,Cropping year,132371.0,300402.8,2.2694
+Egypt,Faiyum,EG-FYM,Fodder crops,Berseem,Cropping year 2012,Cropping year,37792.0,241727.0,6.3962
+Egypt,Faiyum,EG-FYM,Fodder crops,Alfalfa,,,,,
+Egypt,Faiyum,EG-FYM,Fodder crops,Green Fodder,Cropping year 2024,Cropping year,67423.0,185444.0,2.7505
+Egypt,Faiyum,EG-FYM,Fodder crops,"Clover, tahreesh",Winter 2024,Winter,20559.0,216798.0,10.5452
+Egypt,Faiyum,EG-FYM,Vegetables,Tomato,Winter 2024,Winter,19939.0,274523.0,13.7681
+Egypt,Faiyum,EG-FYM,Vegetables,Potato (unspecified),Cropping year 2019,Cropping year,100.0,1000.0,10.0
+Egypt,Faiyum,EG-FYM,Vegetables,Onions,Cropping year 2024,Cropping year,22967.0,282838.0,12.315
+Egypt,Faiyum,EG-FYM,Vegetables,Garlic (fresh),Cropping year 2024,Cropping year,1760.0,16720.0,9.5
+Egypt,Faiyum,EG-FYM,Vegetables,Eggplant,Winter 2024,Winter,3352.0,19543.0,5.8303
+Egypt,Faiyum,EG-FYM,Vegetables,Bell pepper,Cropping year 2024,Cropping year,3124.0,14091.0,4.5106
+Egypt,Faiyum,EG-FYM,Vegetables,Cucumber,Cropping year 2021,Cropping year,649.0,2781.0,4.2851
+Egypt,Faiyum,EG-FYM,Vegetables,Squash (Unspecified),Cropping year 2024,Cropping year,1504.0,8529.0,5.6709
+Egypt,Faiyum,EG-FYM,Vegetables,Watermelon,Cropping year 2021,Cropping year,44.0,145.0,3.2955
+Egypt,Faiyum,EG-FYM,Vegetables,Cabbage (Unspecified),Cropping year 2024,Cropping year,5319.0,55192.0,10.3764
+Egypt,Faiyum,EG-FYM,Sugar crops,Sugar beet,Cropping year 2024,Cropping year,32036.0,467271.0,14.5858
+Egypt,Faiyum,EG-FYM,Sugar crops,Sugarcane (for sugar),Cropping year 2020,Cropping year,46.0,892.0,19.3913
+Egypt,Faiyum,EG-FYM,Oilseeds,Sesame Seed,Cropping year 2024,Cropping year,3425.0,1397.4,0.408
+Egypt,Faiyum,EG-FYM,Oilseeds,Soybean (unspecified),Cropping year 2024,Cropping year,6.0,6.0,1.0
+Egypt,Gharbiyya,EG-GH,Fruits,Mango,2016/2017,Perennial fruit crop,194.0,342,1.7629
+Egypt,Gharbiyya,EG-GH,Fruits,Grapes,2016/2017,Perennial fruit crop,10756.0,100204,9.3161
+Egypt,Gharbiyya,EG-GH,Fruits,Banana,2016/2017,Perennial fruit crop,1508.0,29353,19.4649
+Egypt,Gharbiyya,EG-GH,Fruits,Guava,2016/2017,Perennial fruit crop,53.0,437,8.2453
+Egypt,Gharbiyya,EG-GH,Fruits,Fig,2016/2017,Perennial fruit crop,3.0,17,5.6667
+Egypt,Gharbiyya,EG-GH,Fruits,Pomegranate,2016/2017,Perennial fruit crop,21.0,147,7.0
+Egypt,Gharbiyya,EG-GH,Cereals,Wheat Grain,Winter 2024,Winter,125526.0,387122.0,3.084
+Egypt,Gharbiyya,EG-GH,Cereals,Maize Grain (White),Summer 2024,Summer,46823.0,149182.0,3.1861
+Egypt,Gharbiyya,EG-GH,Cereals,Maize Grain (Yellow),Summer 2024,Summer,7570.0,23906.0,3.158
+Egypt,Gharbiyya,EG-GH,Cereals,Rice (Paddy),Cropping year 2024,Cropping year,116597.0,457060.0,3.92
+Egypt,Gharbiyya,EG-GH,Cereals,Barley (Unspecified),Winter 2024,Winter,23.0,47.0,2.0435
+Egypt,Gharbiyya,EG-GH,Cereals,Sorghum,,,,,
+Egypt,Gharbiyya,EG-GH,Fodder crops,Berseem,Cropping year 2012,Cropping year,7765.0,90176.0,11.6131
+Egypt,Gharbiyya,EG-GH,Fodder crops,Alfalfa,,,,,
+Egypt,Gharbiyya,EG-GH,Fodder crops,Green Fodder,Cropping year 2024,Cropping year,136949.0,175050.0,1.2782
+Egypt,Gharbiyya,EG-GH,Fodder crops,"Clover, tahreesh",Winter 2024,Winter,6690.0,42961.0,6.4217
+Egypt,Gharbiyya,EG-GH,Vegetables,Tomato,Winter 2024,Winter,427.0,6239.0,14.6112
+Egypt,Gharbiyya,EG-GH,Vegetables,Potato (unspecified),Cropping year 2024,Cropping year,27457.0,357764.0,13.03
+Egypt,Gharbiyya,EG-GH,Vegetables,Onions,Cropping year 2024,Cropping year,45768.0,716691.0,15.6592
+Egypt,Gharbiyya,EG-GH,Vegetables,Garlic (fresh),Cropping year 2024,Cropping year,263.0,1957.0,7.4411
+Egypt,Gharbiyya,EG-GH,Vegetables,Eggplant,Winter 2024,Winter,1756.0,19873.0,11.3172
+Egypt,Gharbiyya,EG-GH,Vegetables,Bell pepper,Cropping year 2024,Cropping year,199.0,1704.0,8.5628
+Egypt,Gharbiyya,EG-GH,Vegetables,Cucumber,Cropping year 2021,Cropping year,195.0,1655.0,8.4872
+Egypt,Gharbiyya,EG-GH,Vegetables,Squash (Unspecified),Cropping year 2024,Cropping year,86.0,584.0,6.7907
+Egypt,Gharbiyya,EG-GH,Vegetables,Watermelon,Cropping year 2015,Cropping year,62283.3333,922794.0,14.8161
+Egypt,Gharbiyya,EG-GH,Vegetables,Cabbage (Unspecified),Cropping year 2024,Cropping year,1487.0,18070.0,12.152
+Egypt,Gharbiyya,EG-GH,Sugar crops,Sugar beet,Cropping year 2024,Cropping year,10825.0,273552.0,25.2704
+Egypt,Gharbiyya,EG-GH,Sugar crops,Sugarcane (for sugar),Cropping year 2024,Cropping year,1447.0,53505.0,36.9765
+Egypt,Gharbiyya,EG-GH,Oilseeds,Sesame Seed,Cropping year 2024,Cropping year,4703.0,1862.0,0.3959
+Egypt,Gharbiyya,EG-GH,Oilseeds,Soybean (unspecified),Cropping year 2024,Cropping year,468.0,514.0,1.0983
+Egypt,Giza,EG-GZ,Fruits,Mango,2016/2017,Perennial fruit crop,8328.0,12830,1.5406
+Egypt,Giza,EG-GZ,Fruits,Grapes,2016/2017,Perennial fruit crop,3196.0,25226,7.893
+Egypt,Giza,EG-GZ,Fruits,Banana,2016/2017,Perennial fruit crop,1604.0,30399,18.952
+Egypt,Giza,EG-GZ,Fruits,Guava,2016/2017,Perennial fruit crop,260.0,1556,5.9846
+Egypt,Giza,EG-GZ,Fruits,Fig,2016/2017,Perennial fruit crop,9.0,51,5.6667
+Egypt,Giza,EG-GZ,Fruits,Pomegranate,2016/2017,Perennial fruit crop,1443.0,7817,5.4172
+Egypt,Giza,EG-GZ,Cereals,Wheat Grain,Winter 2024,Winter,25000.0,76374.0,3.055
+Egypt,Giza,EG-GZ,Cereals,Maize Grain (White),Summer 2024,Summer,35813.0,109275.4,3.0513
+Egypt,Giza,EG-GZ,Cereals,Maize Grain (Yellow),Summer 2024,Summer,12386.0,38669.3,3.122
+Egypt,Giza,EG-GZ,Cereals,Rice (Paddy),Nili 2002,Nili,18.0,47.0,2.6111
+Egypt,Giza,EG-GZ,Cereals,Barley (Unspecified),Winter 2024,Winter,43.0,72.0,1.6744
+Egypt,Giza,EG-GZ,Cereals,Sorghum,Cropping year 2024,Cropping year,834.0,2033.9,2.4387
+Egypt,Giza,EG-GZ,Fodder crops,Berseem,Cropping year 2012,Cropping year,19609.0,278216.0,14.1882
+Egypt,Giza,EG-GZ,Fodder crops,Alfalfa,Cropping year 2024,Cropping year,2500.0,40000.0,16.0
+Egypt,Giza,EG-GZ,Fodder crops,Green Fodder,Cropping year 2024,Cropping year,18065.0,268324.0,14.8533
+Egypt,Giza,EG-GZ,Fodder crops,"Clover, tahreesh",Winter 2024,Winter,12182.0,170807.0,14.0213
+Egypt,Giza,EG-GZ,Vegetables,Tomato,Winter 2024,Winter,17614.0,326234.0,18.5213
+Egypt,Giza,EG-GZ,Vegetables,Potato (unspecified),Cropping year 2024,Cropping year,27607.0,338816.0,12.2728
+Egypt,Giza,EG-GZ,Vegetables,Onions,Cropping year 2024,Cropping year,9260.0,116039.0,12.5312
+Egypt,Giza,EG-GZ,Vegetables,Garlic (fresh),Cropping year 2024,Cropping year,2223.0,19367.0,8.7121
+Egypt,Giza,EG-GZ,Vegetables,Eggplant,Winter 2024,Winter,9266.0,98043.0,10.5809
+Egypt,Giza,EG-GZ,Vegetables,Bell pepper,Cropping year 2024,Cropping year,10434.0,102440.0,9.8179
+Egypt,Giza,EG-GZ,Vegetables,Cucumber,Cropping year 2021,Cropping year,10633.0,117947.0,11.0925
+Egypt,Giza,EG-GZ,Vegetables,Squash (Unspecified),Cropping year 2024,Cropping year,6440.0,62288.0,9.672
+Egypt,Giza,EG-GZ,Vegetables,Watermelon,Cropping year 2021,Cropping year,1000.0,20000.0,20.0
+Egypt,Giza,EG-GZ,Vegetables,Cabbage (Unspecified),Cropping year 2024,Cropping year,9168.0,104665.0,11.4163
+Egypt,Giza,EG-GZ,Sugar crops,Sugar beet,Cropping year 2024,Cropping year,1152.0,25413.0,22.0599
+Egypt,Giza,EG-GZ,Sugar crops,Sugarcane (for sugar),Cropping year 2024,Cropping year,2346.0,92142.0,39.2762
+Egypt,Giza,EG-GZ,Oilseeds,Sesame Seed,Cropping year 2024,Cropping year,1015.0,979.2,0.9647
+Egypt,Giza,EG-GZ,Oilseeds,Soybean (unspecified),Cropping year 2023,Cropping year,194.0,291.0,1.5
+Egypt,Ismailia,EG-IS,Fruits,Mango,2016/2017,Perennial fruit crop,104288.0,292900,2.8086
+Egypt,Ismailia,EG-IS,Fruits,Grapes,2016/2017,Perennial fruit crop,1512.0,10691,7.0708
+Egypt,Ismailia,EG-IS,Fruits,Banana,2016/2017,Perennial fruit crop,1242.0,27223,21.9187
+Egypt,Ismailia,EG-IS,Fruits,Guava,2016/2017,Perennial fruit crop,747.0,4610,6.1714
+Egypt,Ismailia,EG-IS,Fruits,Fig,2016/2017,Perennial fruit crop,83.0,396,4.7711
+Egypt,Ismailia,EG-IS,Fruits,Pomegranate,2016/2017,Perennial fruit crop,811.0,6097,7.5179
+Egypt,Ismailia,EG-IS,Cereals,Wheat Grain,Winter 2024,Winter,37833.0,98208.0,2.5958
+Egypt,Ismailia,EG-IS,Cereals,Maize Grain (White),Summer 2024,Summer,9774.0,25494.0,2.6083
+Egypt,Ismailia,EG-IS,Cereals,Maize Grain (Yellow),Summer 2024,Summer,22082.0,58906.0,2.6676
+Egypt,Ismailia,EG-IS,Cereals,Rice (Paddy),Cropping year 2024,Cropping year,8790.0,29601.0,3.3676
+Egypt,Ismailia,EG-IS,Cereals,Barley (Unspecified),Winter 2024,Winter,1198.0,1898.0,1.5843
+Egypt,Ismailia,EG-IS,Cereals,Sorghum,Cropping year 2020,Cropping year,240.0,336.0,1.4
+Egypt,Ismailia,EG-IS,Fodder crops,Berseem,Cropping year 2012,Cropping year,1924.0,22640.0,11.7672
+Egypt,Ismailia,EG-IS,Fodder crops,Alfalfa,Cropping year 2024,Cropping year,1291.0,41312.0,32.0
+Egypt,Ismailia,EG-IS,Fodder crops,Green Fodder,Cropping year 2024,Cropping year,9176.0,216298.0,23.5721
+Egypt,Ismailia,EG-IS,Fodder crops,"Clover, tahreesh",Winter 2024,Winter,56473.0,542538.0,9.607
+Egypt,Ismailia,EG-IS,Vegetables,Tomato,Winter 2024,Winter,15148.0,301063.0,19.8748
+Egypt,Ismailia,EG-IS,Vegetables,Potato (unspecified),Cropping year 2024,Cropping year,11997.0,200739.0,16.7324
+Egypt,Ismailia,EG-IS,Vegetables,Onions,Cropping year 2024,Cropping year,161.0,1875.0,11.646
+Egypt,Ismailia,EG-IS,Vegetables,Garlic (fresh),Cropping year 2024,Cropping year,64.0,569.0,8.8906
+Egypt,Ismailia,EG-IS,Vegetables,Eggplant,Winter 2024,Winter,7308.0,94848.0,12.9787
+Egypt,Ismailia,EG-IS,Vegetables,Bell pepper,Cropping year 2024,Cropping year,7009.0,65648.0,9.3662
+Egypt,Ismailia,EG-IS,Vegetables,Cucumber,Cropping year 2021,Cropping year,2105.0,21126.0,10.0361
+Egypt,Ismailia,EG-IS,Vegetables,Squash (Unspecified),Cropping year 2024,Cropping year,1526.0,14089.0,9.2326
+Egypt,Ismailia,EG-IS,Vegetables,Watermelon,Cropping year 2021,Cropping year,3528.0,63998.0,18.14
+Egypt,Ismailia,EG-IS,Vegetables,Cabbage (Unspecified),Cropping year 2024,Cropping year,585.0,11084.0,18.947
+Egypt,Ismailia,EG-IS,Sugar crops,Sugar beet,Cropping year 2024,Cropping year,9412.0,187975.0,19.9718
+Egypt,Ismailia,EG-IS,Sugar crops,Sugarcane (for sugar),Cropping year 2002,Cropping year,2.0,NC,
+Egypt,Ismailia,EG-IS,Oilseeds,Sesame Seed,Cropping year 2024,Cropping year,6360.0,2290.0,0.3601
+Egypt,Ismailia,EG-IS,Oilseeds,Soybean (unspecified),Cropping year 2024,Cropping year,75.0,75.0,1.0
+Egypt,Kafr el-Sheikh,EG-KFS,Fruits,Mango,2016/2017,Perennial fruit crop,37.0,207,5.5946
+Egypt,Kafr el-Sheikh,EG-KFS,Fruits,Grapes,2016/2017,Perennial fruit crop,70.0,743,10.6143
+Egypt,Kafr el-Sheikh,EG-KFS,Fruits,Banana,2016/2017,Perennial fruit crop,438.0,8306,18.9635
+Egypt,Kafr el-Sheikh,EG-KFS,Fruits,Guava,2016/2017,Perennial fruit crop,1299.0,14735,11.3433
+Egypt,Kafr el-Sheikh,EG-KFS,Fruits,Fig,2016/2017,Perennial fruit crop,3.0,15,5.0
+Egypt,Kafr el-Sheikh,EG-KFS,Fruits,Pomegranate,2016/2017,Perennial fruit crop,69.0,897,13.0
+Egypt,Kafr el-Sheikh,EG-KFS,Cereals,Wheat Grain,Winter 2024,Winter,203350.0,537039.0,2.641
+Egypt,Kafr el-Sheikh,EG-KFS,Cereals,Maize Grain (White),Summer 2024,Summer,24399.0,82682.0,3.3887
+Egypt,Kafr el-Sheikh,EG-KFS,Cereals,Maize Grain (Yellow),Summer 2024,Summer,17386.0,56201.0,3.2325
+Egypt,Kafr el-Sheikh,EG-KFS,Cereals,Rice (Paddy),Cropping year 2024,Cropping year,248954.0,1001444.0,4.0226
+Egypt,Kafr el-Sheikh,EG-KFS,Cereals,Barley (Unspecified),Winter 2024,Winter,165.0,265.0,1.6061
+Egypt,Kafr el-Sheikh,EG-KFS,Cereals,Sorghum,,,,,
+Egypt,Kafr el-Sheikh,EG-KFS,Fodder crops,Berseem,Cropping year 2012,Cropping year,1000.0,10000.0,10.0
+Egypt,Kafr el-Sheikh,EG-KFS,Fodder crops,Alfalfa,,,,,
+Egypt,Kafr el-Sheikh,EG-KFS,Fodder crops,Green Fodder,Cropping year 2024,Cropping year,44507.0,272554.0,6.1238
+Egypt,Kafr el-Sheikh,EG-KFS,Fodder crops,"Clover, tahreesh",Winter 2024,Winter,34644.0,713350.0,20.5909
+Egypt,Kafr el-Sheikh,EG-KFS,Vegetables,Tomato,Winter 2024,Winter,12117.0,226588.0,18.7
+Egypt,Kafr el-Sheikh,EG-KFS,Vegetables,Potato (unspecified),Cropping year 2024,Cropping year,3117.0,30761.0,9.8688
+Egypt,Kafr el-Sheikh,EG-KFS,Vegetables,Onions,Cropping year 2024,Cropping year,5445.0,101609.0,18.661
+Egypt,Kafr el-Sheikh,EG-KFS,Vegetables,Garlic (fresh),Cropping year 2024,Cropping year,70.0,644.0,9.2
+Egypt,Kafr el-Sheikh,EG-KFS,Vegetables,Eggplant,Winter 2024,Winter,4528.0,65816.0,14.5353
+Egypt,Kafr el-Sheikh,EG-KFS,Vegetables,Bell pepper,Cropping year 2024,Cropping year,3913.0,33870.0,8.6558
+Egypt,Kafr el-Sheikh,EG-KFS,Vegetables,Cucumber,Cropping year 2021,Cropping year,5934.0,70766.0,11.9255
+Egypt,Kafr el-Sheikh,EG-KFS,Vegetables,Squash (Unspecified),Cropping year 2024,Cropping year,3854.0,34774.0,9.0228
+Egypt,Kafr el-Sheikh,EG-KFS,Vegetables,Watermelon,Cropping year 2021,Cropping year,9.0,180.0,20.0
+Egypt,Kafr el-Sheikh,EG-KFS,Vegetables,Cabbage (Unspecified),Cropping year 2024,Cropping year,2459.0,35974.0,14.6295
+Egypt,Kafr el-Sheikh,EG-KFS,Sugar crops,Sugar beet,Cropping year 2024,Cropping year,130582.0,2757288.0,21.1154
+Egypt,Kafr el-Sheikh,EG-KFS,Sugar crops,Sugarcane (for sugar),Cropping year 2024,Cropping year,17.0,683.0,40.1765
+Egypt,Kafr el-Sheikh,EG-KFS,Oilseeds,Sesame Seed,Cropping year 2024,Cropping year,475.0,266.0,0.56
+Egypt,Kafr el-Sheikh,EG-KFS,Oilseeds,Soybean (unspecified),Cropping year 2024,Cropping year,45.0,43.0,0.9556
+Egypt,Luxor,EG-LX,Fruits,Mango,2016/2017,Perennial fruit crop,2353.0,7466,3.173
+Egypt,Luxor,EG-LX,Fruits,Grapes,2016/2017,Perennial fruit crop,819.0,4208,5.138
+Egypt,Luxor,EG-LX,Fruits,Banana,2016/2017,Perennial fruit crop,5486.0,64422,11.743
+Egypt,Luxor,EG-LX,Fruits,Guava,2016/2017,Perennial fruit crop,444.0,2840,6.3964
+Egypt,Luxor,EG-LX,Fruits,Fig,2016/2017,Perennial fruit crop,52.0,171,3.2885
+Egypt,Luxor,EG-LX,Fruits,Pomegranate,2016/2017,Perennial fruit crop,77.0,167,2.1688
+Egypt,Luxor,EG-LX,Cereals,Wheat Grain,Winter 2024,Winter,29942.0,77284.0,2.5811
+Egypt,Luxor,EG-LX,Cereals,Maize Grain (White),Summer 2024,Summer,1406.0,3525.0,2.5071
+Egypt,Luxor,EG-LX,Cereals,Maize Grain (Yellow),Summer 2024,Summer,11787.0,32168.0,2.7291
+Egypt,Luxor,EG-LX,Cereals,Rice (Paddy),,,,,
+Egypt,Luxor,EG-LX,Cereals,Barley (Unspecified),Winter 2024,Winter,1222.0,1888.0,1.545
+Egypt,Luxor,EG-LX,Cereals,Sorghum,Cropping year 2024,Cropping year,6247.0,15826.0,2.5334
+Egypt,Luxor,EG-LX,Fodder crops,Berseem,Cropping year 2012,Cropping year,468.0,5586.0,11.9359
+Egypt,Luxor,EG-LX,Fodder crops,Alfalfa,Cropping year 2024,Cropping year,6321.0,154082.0,24.3762
+Egypt,Luxor,EG-LX,Fodder crops,Green Fodder,Cropping year 2024,Cropping year,16834.0,240445.0,14.2833
+Egypt,Luxor,EG-LX,Fodder crops,"Clover, tahreesh",Winter 2023,Winter,487.0,5575.0,11.4476
+Egypt,Luxor,EG-LX,Vegetables,Tomato,Winter 2024,Winter,12863.0,304258.0,23.6537
+Egypt,Luxor,EG-LX,Vegetables,Potato (unspecified),Cropping year 2024,Cropping year,180.0,1440.0,8.0
+Egypt,Luxor,EG-LX,Vegetables,Onions,Cropping year 2024,Cropping year,1275.0,19201.0,15.0596
+Egypt,Luxor,EG-LX,Vegetables,Garlic (fresh),Cropping year 2024,Cropping year,249.0,2938.0,11.7992
+Egypt,Luxor,EG-LX,Vegetables,Eggplant,Winter 2024,Winter,5518.0,56564.0,10.2508
+Egypt,Luxor,EG-LX,Vegetables,Bell pepper,Cropping year 2024,Cropping year,1062.0,8467.0,7.9727
+Egypt,Luxor,EG-LX,Vegetables,Cucumber,Cropping year 2021,Cropping year,100.0,752.0,7.52
+Egypt,Luxor,EG-LX,Vegetables,Squash (Unspecified),Cropping year 2024,Cropping year,626.0,4758.0,7.6006
+Egypt,Luxor,EG-LX,Vegetables,Watermelon,Cropping year 2021,Cropping year,5.0,50.0,10.0
+Egypt,Luxor,EG-LX,Vegetables,Cabbage (Unspecified),Cropping year 2024,Cropping year,228.0,2100.0,9.2105
+Egypt,Luxor,EG-LX,Sugar crops,Sugar beet,,,,,
+Egypt,Luxor,EG-LX,Sugar crops,Sugarcane (for sugar),Cropping year 2024,Cropping year,62746.0,3109271.0,49.5533
+Egypt,Luxor,EG-LX,Oilseeds,Sesame Seed,Cropping year 2024,Cropping year,790.0,472.0,0.5975
+Egypt,Luxor,EG-LX,Oilseeds,Soybean (unspecified),Cropping year 2024,Cropping year,61.0,257.0,4.2131
+Egypt,Matrouh,EG-MT,Fruits,Mango,2016/2017,Perennial fruit crop,8.0,22,2.75
+Egypt,Matrouh,EG-MT,Fruits,Grapes,2016/2017,Perennial fruit crop,4629.0,13196,2.8507
+Egypt,Matrouh,EG-MT,Fruits,Banana,2016/2017,Perennial fruit crop,0.0,0,
+Egypt,Matrouh,EG-MT,Fruits,Guava,2016/2017,Perennial fruit crop,2044.0,8722,4.2671
+Egypt,Matrouh,EG-MT,Fruits,Fig,2016/2017,Perennial fruit crop,60055.0,150138,2.5
+Egypt,Matrouh,EG-MT,Fruits,Pomegranate,2016/2017,Perennial fruit crop,282.0,757,2.6844
+Egypt,Matrouh,EG-MT,Cereals,Wheat Grain,Winter 2024,Winter,7290.0,3697.0,0.5071
+Egypt,Matrouh,EG-MT,Cereals,Maize Grain (White),Summer 2023,Summer,150.0,399.0,2.66
+Egypt,Matrouh,EG-MT,Cereals,Maize Grain (Yellow),Summer 2024,Summer,12731.0,31369.2,2.464
+Egypt,Matrouh,EG-MT,Cereals,Rice (Paddy),Cropping year 2014,Cropping year,3095.2381,9282.0,2.9988
+Egypt,Matrouh,EG-MT,Cereals,Barley (Unspecified),Winter 2024,Winter,62725.0,1830.0,0.0292
+Egypt,Matrouh,EG-MT,Cereals,Sorghum,,,,,
+Egypt,Matrouh,EG-MT,Fodder crops,Berseem,,,,,
+Egypt,Matrouh,EG-MT,Fodder crops,Alfalfa,Cropping year 2024,Cropping year,4130.0,41300.0,10.0
+Egypt,Matrouh,EG-MT,Fodder crops,Green Fodder,Cropping year 2020,Cropping year,1.0,NC,
+Egypt,Matrouh,EG-MT,Fodder crops,"Clover, tahreesh",,,,,
+Egypt,Matrouh,EG-MT,Vegetables,Tomato,Winter 2024,Winter,19692.0,254727.0,12.9356
+Egypt,Matrouh,EG-MT,Vegetables,Potato (unspecified),Cropping year 2024,Cropping year,3762.0,55670.0,14.798
+Egypt,Matrouh,EG-MT,Vegetables,Onions,Cropping year 2024,Cropping year,3147.0,47078.0,14.9596
+Egypt,Matrouh,EG-MT,Vegetables,Garlic (fresh),Cropping year 2024,Cropping year,25.0,175.0,7.0
+Egypt,Matrouh,EG-MT,Vegetables,Eggplant,Winter 2024,Winter,1234.0,11392.0,9.2318
+Egypt,Matrouh,EG-MT,Vegetables,Bell pepper,Cropping year 2024,Cropping year,3828.0,33051.0,8.634
+Egypt,Matrouh,EG-MT,Vegetables,Cucumber,Cropping year 2021,Cropping year,747.0,4080.0,5.4618
+Egypt,Matrouh,EG-MT,Vegetables,Squash (Unspecified),Cropping year 2024,Cropping year,2103.0,11736.0,5.5806
+Egypt,Matrouh,EG-MT,Vegetables,Watermelon,Cropping year 2021,Cropping year,5149.0,54710.0,10.6254
+Egypt,Matrouh,EG-MT,Vegetables,Cabbage (Unspecified),Cropping year 2023,Cropping year,127.0,1524.0,12.0
+Egypt,Matrouh,EG-MT,Sugar crops,Sugar beet,Cropping year 2024,Cropping year,1142.0,22840.0,20.0
+Egypt,Matrouh,EG-MT,Sugar crops,Sugarcane (for sugar),,,,,
+Egypt,Matrouh,EG-MT,Oilseeds,Sesame Seed,Cropping year 2024,Cropping year,2705.0,1574.3,0.582
+Egypt,Matrouh,EG-MT,Oilseeds,Soybean (unspecified),Cropping year 2024,Cropping year,30.0,9.0,0.3
+Egypt,Minya,EG-MN,Fruits,Mango,2016/2017,Perennial fruit crop,1440.0,8505,5.9062
+Egypt,Minya,EG-MN,Fruits,Grapes,2016/2017,Perennial fruit crop,24978.0,213759,8.5579
+Egypt,Minya,EG-MN,Fruits,Banana,2016/2017,Perennial fruit crop,2724.0,47515,17.4431
+Egypt,Minya,EG-MN,Fruits,Guava,2016/2017,Perennial fruit crop,372.0,2782,7.4785
+Egypt,Minya,EG-MN,Fruits,Fig,2016/2017,Perennial fruit crop,522.0,3328,6.3755
+Egypt,Minya,EG-MN,Fruits,Pomegranate,2016/2017,Perennial fruit crop,221.0,2118,9.5837
+Egypt,Minya,EG-MN,Cereals,Wheat Grain,Winter 2024,Winter,216398.0,627053.0,2.8977
+Egypt,Minya,EG-MN,Cereals,Maize Grain (White),Summer 2024,Summer,169241.0,533307.1,3.1512
+Egypt,Minya,EG-MN,Cereals,Maize Grain (Yellow),Summer 2024,Summer,81222.0,261886.9,3.2243
+Egypt,Minya,EG-MN,Cereals,Rice (Paddy),Summer 2006,Summer,36.0,98.0,2.7222
+Egypt,Minya,EG-MN,Cereals,Barley (Unspecified),Winter 2024,Winter,3376.0,5134.0,1.5207
+Egypt,Minya,EG-MN,Cereals,Sorghum,Cropping year 2024,Cropping year,19204.0,42563.6,2.2164
+Egypt,Minya,EG-MN,Fodder crops,Berseem,Cropping year 2012,Cropping year,496.0,5219.0,10.5222
+Egypt,Minya,EG-MN,Fodder crops,Alfalfa,Cropping year 2024,Cropping year,2286.0,54125.0,23.6767
+Egypt,Minya,EG-MN,Fodder crops,Green Fodder,Cropping year 2024,Cropping year,2511.0,3085.0,1.2286
+Egypt,Minya,EG-MN,Fodder crops,"Clover, tahreesh",Winter 2022,Winter,235.0,724.0,3.0809
+Egypt,Minya,EG-MN,Vegetables,Tomato,Winter 2024,Winter,27991.0,329741.0,11.7803
+Egypt,Minya,EG-MN,Vegetables,Potato (unspecified),Cropping year 2024,Cropping year,105679.0,1012834.0,9.5841
+Egypt,Minya,EG-MN,Vegetables,Onions,Cropping year 2024,Cropping year,30015.0,394119.0,13.1307
+Egypt,Minya,EG-MN,Vegetables,Garlic (fresh),Cropping year 2024,Cropping year,14271.0,157866.0,11.062
+Egypt,Minya,EG-MN,Vegetables,Eggplant,Winter 2024,Winter,8320.0,83533.0,10.04
+Egypt,Minya,EG-MN,Vegetables,Bell pepper,Cropping year 2024,Cropping year,17514.0,99799.0,5.6982
+Egypt,Minya,EG-MN,Vegetables,Cucumber,Cropping year 2021,Cropping year,7474.0,101824.0,13.6238
+Egypt,Minya,EG-MN,Vegetables,Squash (Unspecified),Cropping year 2024,Cropping year,1317.0,11380.0,8.6409
+Egypt,Minya,EG-MN,Vegetables,Watermelon,Cropping year 2021,Cropping year,3618.0,32135.0,8.882
+Egypt,Minya,EG-MN,Vegetables,Cabbage (Unspecified),Cropping year 2024,Cropping year,643.0,9639.0,14.9907
+Egypt,Minya,EG-MN,Sugar crops,Sugar beet,Cropping year 2024,Cropping year,63235.0,1681477.0,26.5909
+Egypt,Minya,EG-MN,Sugar crops,Sugarcane (for sugar),Cropping year 2024,Cropping year,26971.0,1176852.0,43.634
+Egypt,Minya,EG-MN,Oilseeds,Sesame Seed,Cropping year 2024,Cropping year,10451.0,5864.9,0.5612
+Egypt,Minya,EG-MN,Oilseeds,Soybean (unspecified),Cropping year 2024,Cropping year,74381.0,81496.0,1.0957
+Egypt,Monufia,EG-MNF,Fruits,Mango,2016/2017,Perennial fruit crop,6016.0,17647,2.9333
+Egypt,Monufia,EG-MNF,Fruits,Grapes,2016/2017,Perennial fruit crop,11117.0,91503,8.2309
+Egypt,Monufia,EG-MNF,Fruits,Banana,2016/2017,Perennial fruit crop,8379.0,203167,24.2472
+Egypt,Monufia,EG-MNF,Fruits,Guava,2016/2017,Perennial fruit crop,156.0,1257,8.0577
+Egypt,Monufia,EG-MNF,Fruits,Fig,2016/2017,Perennial fruit crop,1.0,4,4.0
+Egypt,Monufia,EG-MNF,Fruits,Pomegranate,2016/2017,Perennial fruit crop,323.0,670,2.0743
+Egypt,Monufia,EG-MNF,Cereals,Wheat Grain,Winter 2024,Winter,99969.0,328998.0,3.291
+Egypt,Monufia,EG-MNF,Cereals,Maize Grain (White),Summer 2024,Summer,132641.0,448459.0,3.381
+Egypt,Monufia,EG-MNF,Cereals,Maize Grain (Yellow),Summer 2024,Summer,44507.0,149606.0,3.3614
+Egypt,Monufia,EG-MNF,Cereals,Rice (Paddy),Cropping year 2024,Cropping year,86.0,376.0,4.3721
+Egypt,Monufia,EG-MNF,Cereals,Barley (Unspecified),Winter 2024,Winter,155.0,183.0,1.1806
+Egypt,Monufia,EG-MNF,Cereals,Sorghum,Summer 1992,Summer,57.0,NC,
+Egypt,Monufia,EG-MNF,Fodder crops,Berseem,Cropping year 2012,Cropping year,2223.0,30343.0,13.6496
+Egypt,Monufia,EG-MNF,Fodder crops,Alfalfa,,,,,
+Egypt,Monufia,EG-MNF,Fodder crops,Green Fodder,Cropping year 2024,Cropping year,75366.0,150.0,0.002
+Egypt,Monufia,EG-MNF,Fodder crops,"Clover, tahreesh",Winter 2023,Winter,850.0,6800.0,8.0
+Egypt,Monufia,EG-MNF,Vegetables,Tomato,Winter 2024,Winter,199.0,3144.0,15.799
+Egypt,Monufia,EG-MNF,Vegetables,Potato (unspecified),Cropping year 2024,Cropping year,67353.0,771922.0,11.4608
+Egypt,Monufia,EG-MNF,Vegetables,Onions,Cropping year 2024,Cropping year,2322.0,26003.0,11.1985
+Egypt,Monufia,EG-MNF,Vegetables,Garlic (fresh),Cropping year 2024,Cropping year,90.0,737.0,8.1889
+Egypt,Monufia,EG-MNF,Vegetables,Eggplant,Winter 2024,Winter,444.0,5610.0,12.6351
+Egypt,Monufia,EG-MNF,Vegetables,Bell pepper,Cropping year 2024,Cropping year,173.0,1262.0,7.2948
+Egypt,Monufia,EG-MNF,Vegetables,Cucumber,Cropping year 2021,Cropping year,10.0,190.0,19.0
+Egypt,Monufia,EG-MNF,Vegetables,Squash (Unspecified),Cropping year 2024,Cropping year,58.0,500.0,8.6207
+Egypt,Monufia,EG-MNF,Vegetables,Watermelon,Cropping year 2017,Cropping year,130.0,2990.0,23.0
+Egypt,Monufia,EG-MNF,Vegetables,Cabbage (Unspecified),Cropping year 2024,Cropping year,1817.0,20366.0,11.2086
+Egypt,Monufia,EG-MNF,Sugar crops,Sugar beet,Cropping year 2024,Cropping year,2068.0,40768.0,19.7137
+Egypt,Monufia,EG-MNF,Sugar crops,Sugarcane (for sugar),Cropping year 2012,Cropping year,22.0,638.0,29.0
+Egypt,Monufia,EG-MNF,Oilseeds,Sesame Seed,Cropping year 2024,Cropping year,128.0,60.0,0.4688
+Egypt,Monufia,EG-MNF,Oilseeds,Soybean (unspecified),Cropping year 2024,Cropping year,15.0,27.0,1.8
+Egypt,New Valley,EG-WAD,Fruits,Mango,2016/2017,Perennial fruit crop,3524.0,19957,5.6632
+Egypt,New Valley,EG-WAD,Fruits,Grapes,2016/2017,Perennial fruit crop,165.0,825,5.0
+Egypt,New Valley,EG-WAD,Fruits,Banana,2016/2017,Perennial fruit crop,12.0,132,11.0
+Egypt,New Valley,EG-WAD,Fruits,Guava,2016/2017,Perennial fruit crop,539.0,2420,4.4898
+Egypt,New Valley,EG-WAD,Fruits,Fig,2016/2017,Perennial fruit crop,142.0,783,5.5141
+Egypt,New Valley,EG-WAD,Fruits,Pomegranate,2016/2017,Perennial fruit crop,653.0,2236,3.4242
+Egypt,New Valley,EG-WAD,Cereals,Wheat Grain,Winter 2024,Winter,327830.0,884649.0,2.6985
+Egypt,New Valley,EG-WAD,Cereals,Maize Grain (White),Summer 2024,Summer,6957.0,18993.0,2.7301
+Egypt,New Valley,EG-WAD,Cereals,Maize Grain (Yellow),Summer 2024,Summer,65116.0,185606.7,2.8504
+Egypt,New Valley,EG-WAD,Cereals,Rice (Paddy),Cropping year 2020,Cropping year,1865.0,7180.0,3.8499
+Egypt,New Valley,EG-WAD,Cereals,Barley (Unspecified),Winter 2024,Winter,34733.0,66687.0,1.92
+Egypt,New Valley,EG-WAD,Cereals,Sorghum,Cropping year 2024,Cropping year,11749.0,23193.0,1.974
+Egypt,New Valley,EG-WAD,Fodder crops,Berseem,,,,,
+Egypt,New Valley,EG-WAD,Fodder crops,Alfalfa,Cropping year 2024,Cropping year,68114.0,1838566.0,26.9925
+Egypt,New Valley,EG-WAD,Fodder crops,Green Fodder,Cropping year 2024,Cropping year,50089.0,764329.0,15.2594
+Egypt,New Valley,EG-WAD,Fodder crops,"Clover, tahreesh",,,,,
+Egypt,New Valley,EG-WAD,Vegetables,Tomato,Winter 2024,Winter,1988.0,15222.0,7.6569
+Egypt,New Valley,EG-WAD,Vegetables,Potato (unspecified),Cropping year 2024,Cropping year,94862.0,1801338.0,18.989
+Egypt,New Valley,EG-WAD,Vegetables,Onions,Cropping year 2024,Cropping year,8268.0,130052.0,15.7296
+Egypt,New Valley,EG-WAD,Vegetables,Garlic (fresh),Cropping year 2024,Cropping year,2776.0,24612.0,8.866
+Egypt,New Valley,EG-WAD,Vegetables,Eggplant,Winter 2024,Winter,342.0,1466.0,4.2865
+Egypt,New Valley,EG-WAD,Vegetables,Bell pepper,Cropping year 2024,Cropping year,449.0,1369.0,3.049
+Egypt,New Valley,EG-WAD,Vegetables,Cucumber,Cropping year 2021,Cropping year,273.0,1622.0,5.9414
+Egypt,New Valley,EG-WAD,Vegetables,Squash (Unspecified),Cropping year 2024,Cropping year,244.0,948.0,3.8852
+Egypt,New Valley,EG-WAD,Vegetables,Watermelon,Cropping year 2021,Cropping year,715.0,6419.0,8.9776
+Egypt,New Valley,EG-WAD,Vegetables,Cabbage (Unspecified),Cropping year 2024,Cropping year,193.0,3228.0,16.7254
+Egypt,New Valley,EG-WAD,Sugar crops,Sugar beet,Cropping year 2024,Cropping year,10971.0,178346.0,16.2561
+Egypt,New Valley,EG-WAD,Sugar crops,Sugarcane (for sugar),Cropping year 2022,Cropping year,2.0,50.0,25.0
+Egypt,New Valley,EG-WAD,Oilseeds,Sesame Seed,Cropping year 2024,Cropping year,772.0,277.9,0.36
+Egypt,New Valley,EG-WAD,Oilseeds,Soybean (unspecified),Cropping year 2024,Cropping year,920.0,625.0,0.6793
+Egypt,North Sinai,EG-SIN,Fruits,Mango,2016/2017,Perennial fruit crop,395.0,1343,3.4
+Egypt,North Sinai,EG-SIN,Fruits,Grapes,2016/2017,Perennial fruit crop,270.0,918,3.4
+Egypt,North Sinai,EG-SIN,Fruits,Banana,2016/2017,Perennial fruit crop,0.0,0,
+Egypt,North Sinai,EG-SIN,Fruits,Guava,2016/2017,Perennial fruit crop,124.0,657,5.2984
+Egypt,North Sinai,EG-SIN,Fruits,Fig,2016/2017,Perennial fruit crop,612.0,1786,2.9183
+Egypt,North Sinai,EG-SIN,Fruits,Pomegranate,2016/2017,Perennial fruit crop,560.0,2177,3.8875
+Egypt,North Sinai,EG-SIN,Cereals,Wheat Grain,Winter 2024,Winter,343.0,98.0,0.2857
+Egypt,North Sinai,EG-SIN,Cereals,Maize Grain (White),Summer 2024,Summer,83.0,178.0,2.1446
+Egypt,North Sinai,EG-SIN,Cereals,Maize Grain (Yellow),,,,,
+Egypt,North Sinai,EG-SIN,Cereals,Rice (Paddy),Summer 1999,Summer,13229.0,NC,
+Egypt,North Sinai,EG-SIN,Cereals,Barley (Unspecified),Winter 2024,Winter,1108.0,112.0,0.1011
+Egypt,North Sinai,EG-SIN,Cereals,Sorghum,,,,,
+Egypt,North Sinai,EG-SIN,Fodder crops,Berseem,,,,,
+Egypt,North Sinai,EG-SIN,Fodder crops,Alfalfa,Cropping year 2024,Cropping year,53.0,424.0,8.0
+Egypt,North Sinai,EG-SIN,Fodder crops,Green Fodder,Cropping year 2024,Cropping year,9.0,18.0,2.0
+Egypt,North Sinai,EG-SIN,Fodder crops,"Clover, tahreesh",,,,,
+Egypt,North Sinai,EG-SIN,Vegetables,Tomato,Winter 2024,Winter,1328.0,15195.0,11.442
+Egypt,North Sinai,EG-SIN,Vegetables,Potato (unspecified),Cropping year 2024,Cropping year,3.0,22.0,7.3333
+Egypt,North Sinai,EG-SIN,Vegetables,Onions,Cropping year 2024,Cropping year,258.0,1596.0,6.186
+Egypt,North Sinai,EG-SIN,Vegetables,Garlic (fresh),Cropping year 2024,Cropping year,6.0,45.0,7.5
+Egypt,North Sinai,EG-SIN,Vegetables,Eggplant,Winter 2024,Winter,163.0,1169.0,7.1718
+Egypt,North Sinai,EG-SIN,Vegetables,Bell pepper,Cropping year 2024,Cropping year,112.0,516.0,4.6071
+Egypt,North Sinai,EG-SIN,Vegetables,Cucumber,Cropping year 2021,Cropping year,110.0,645.0,5.8636
+Egypt,North Sinai,EG-SIN,Vegetables,Squash (Unspecified),Cropping year 2024,Cropping year,58.0,311.0,5.3621
+Egypt,North Sinai,EG-SIN,Vegetables,Watermelon,Cropping year 2021,Cropping year,59.0,504.0,8.5424
+Egypt,North Sinai,EG-SIN,Vegetables,Cabbage (Unspecified),Cropping year 2024,Cropping year,33.0,NC,
+Egypt,North Sinai,EG-SIN,Sugar crops,Sugar beet,Winter 2018,Winter,2.0,20.0,10.0
+Egypt,North Sinai,EG-SIN,Sugar crops,Sugarcane (for sugar),,,,,
+Egypt,North Sinai,EG-SIN,Oilseeds,Sesame Seed,,,,,
+Egypt,North Sinai,EG-SIN,Oilseeds,Soybean (unspecified),,,,,
+Egypt,Port Said,EG-PTS,Fruits,Mango,2016/2017,Perennial fruit crop,68.0,306,4.5
+Egypt,Port Said,EG-PTS,Fruits,Grapes,2016/2017,Perennial fruit crop,11.0,44,4.0
+Egypt,Port Said,EG-PTS,Fruits,Banana,2016/2017,Perennial fruit crop,0.0,0,
+Egypt,Port Said,EG-PTS,Fruits,Guava,2016/2017,Perennial fruit crop,63.0,337,5.3492
+Egypt,Port Said,EG-PTS,Fruits,Fig,2016/2017,Perennial fruit crop,5.0,13,2.6
+Egypt,Port Said,EG-PTS,Fruits,Pomegranate,2016/2017,Perennial fruit crop,50.0,100,2.0
+Egypt,Port Said,EG-PTS,Cereals,Wheat Grain,Winter 2024,Winter,13162.0,23692.0,1.8
+Egypt,Port Said,EG-PTS,Cereals,Maize Grain (White),Summer 2024,Summer,4573.0,11396.0,2.492
+Egypt,Port Said,EG-PTS,Cereals,Maize Grain (Yellow),Summer 2022,Summer,629.0,1497.0,2.38
+Egypt,Port Said,EG-PTS,Cereals,Rice (Paddy),Cropping year 2024,Cropping year,33580.0,109135.0,3.25
+Egypt,Port Said,EG-PTS,Cereals,Barley (Unspecified),Winter 2024,Winter,4466.0,5359.0,1.2
+Egypt,Port Said,EG-PTS,Cereals,Sorghum,Cropping year 2020,Cropping year,5.0,7.0,1.4
+Egypt,Port Said,EG-PTS,Fodder crops,Berseem,Cropping year 2012,Cropping year,7760.0,108640.0,14.0
+Egypt,Port Said,EG-PTS,Fodder crops,Alfalfa,Cropping year 2016,Cropping year,20.0,400.0,20.0
+Egypt,Port Said,EG-PTS,Fodder crops,Green Fodder,Cropping year 2024,Cropping year,1456.0,29120.0,20.0
+Egypt,Port Said,EG-PTS,Fodder crops,"Clover, tahreesh",Winter 2024,Winter,11000.0,220000.0,20.0
+Egypt,Port Said,EG-PTS,Vegetables,Tomato,Winter 2024,Winter,218.0,1220.0,5.5963
+Egypt,Port Said,EG-PTS,Vegetables,Potato (unspecified),Cropping year 2024,Cropping year,122.0,1022.0,8.377
+Egypt,Port Said,EG-PTS,Vegetables,Onions,Cropping year 2024,Cropping year,389.0,2918.0,7.5013
+Egypt,Port Said,EG-PTS,Vegetables,Garlic (fresh),Cropping year 2016,Cropping year,1.0,7.0,7.0
+Egypt,Port Said,EG-PTS,Vegetables,Eggplant,Winter 2024,Winter,69.0,552.0,8.0
+Egypt,Port Said,EG-PTS,Vegetables,Bell pepper,Cropping year 2024,Cropping year,99.0,523.0,5.2828
+Egypt,Port Said,EG-PTS,Vegetables,Cucumber,,,,,
+Egypt,Port Said,EG-PTS,Vegetables,Squash (Unspecified),Cropping year 2024,Cropping year,38.0,367.0,9.6579
+Egypt,Port Said,EG-PTS,Vegetables,Watermelon,Summer 2001,Summer,7.1429,6.3,0.882
+Egypt,Port Said,EG-PTS,Vegetables,Cabbage (Unspecified),Cropping year 2024,Cropping year,7.0,70.0,10.0
+Egypt,Port Said,EG-PTS,Sugar crops,Sugar beet,Cropping year 2024,Cropping year,45879.0,917580.0,20.0
+Egypt,Port Said,EG-PTS,Sugar crops,Sugarcane (for sugar),Cropping year 1992,Cropping year,1.0,NC,
+Egypt,Port Said,EG-PTS,Oilseeds,Sesame Seed,Cropping year 2024,Cropping year,1817.0,829.0,0.4562
+Egypt,Port Said,EG-PTS,Oilseeds,Soybean (unspecified),,,,,
+Egypt,Qalyubia,EG-KB,Fruits,Mango,2016/2017,Perennial fruit crop,697.0,3915,5.6169
+Egypt,Qalyubia,EG-KB,Fruits,Grapes,2016/2017,Perennial fruit crop,224.0,2414,10.7768
+Egypt,Qalyubia,EG-KB,Fruits,Banana,2016/2017,Perennial fruit crop,2505.0,53382,21.3102
+Egypt,Qalyubia,EG-KB,Fruits,Guava,2016/2017,Perennial fruit crop,3703.0,30692,8.2884
+Egypt,Qalyubia,EG-KB,Fruits,Fig,2016/2017,Perennial fruit crop,75.0,548,7.3067
+Egypt,Qalyubia,EG-KB,Fruits,Pomegranate,2016/2017,Perennial fruit crop,27.0,241,8.9259
+Egypt,Qalyubia,EG-KB,Cereals,Wheat Grain,Winter 2024,Winter,39165.0,116966.0,2.9865
+Egypt,Qalyubia,EG-KB,Cereals,Maize Grain (White),Summer 2024,Summer,50851.0,167270.0,3.2894
+Egypt,Qalyubia,EG-KB,Cereals,Maize Grain (Yellow),Summer 2024,Summer,9007.0,30125.0,3.3446
+Egypt,Qalyubia,EG-KB,Cereals,Rice (Paddy),Cropping year 2024,Cropping year,10135.0,37114.0,3.662
+Egypt,Qalyubia,EG-KB,Cereals,Barley (Unspecified),Winter 2023,Winter,8.0,12.0,1.5
+Egypt,Qalyubia,EG-KB,Cereals,Sorghum,,,,,
+Egypt,Qalyubia,EG-KB,Fodder crops,Berseem,Cropping year 2012,Cropping year,14.0,56.0,4.0
+Egypt,Qalyubia,EG-KB,Fodder crops,Alfalfa,,,,,
+Egypt,Qalyubia,EG-KB,Fodder crops,Green Fodder,Cropping year 2024,Cropping year,55239.0,305830.0,5.5365
+Egypt,Qalyubia,EG-KB,Fodder crops,"Clover, tahreesh",Winter 2024,Winter,10470.0,116350.0,11.1127
+Egypt,Qalyubia,EG-KB,Vegetables,Tomato,Winter 2024,Winter,1553.0,19560.0,12.595
+Egypt,Qalyubia,EG-KB,Vegetables,Potato (unspecified),Cropping year 2024,Cropping year,15268.0,293309.0,19.2107
+Egypt,Qalyubia,EG-KB,Vegetables,Onions,Cropping year 2024,Cropping year,14563.0,220655.0,15.1518
+Egypt,Qalyubia,EG-KB,Vegetables,Garlic (fresh),Cropping year 2024,Cropping year,84.0,852.0,10.1429
+Egypt,Qalyubia,EG-KB,Vegetables,Eggplant,Winter 2024,Winter,3622.0,1269.0,0.3504
+Egypt,Qalyubia,EG-KB,Vegetables,Bell pepper,Cropping year 2024,Cropping year,658.0,4226.0,6.4225
+Egypt,Qalyubia,EG-KB,Vegetables,Cucumber,Cropping year 2021,Cropping year,58.0,597.0,10.2931
+Egypt,Qalyubia,EG-KB,Vegetables,Squash (Unspecified),Cropping year 2024,Cropping year,342.0,3282.0,9.5965
+Egypt,Qalyubia,EG-KB,Vegetables,Watermelon,Cropping year 2021,Cropping year,2.0,30.0,15.0
+Egypt,Qalyubia,EG-KB,Vegetables,Cabbage (Unspecified),Cropping year 2024,Cropping year,3615.0,61340.0,16.9682
+Egypt,Qalyubia,EG-KB,Sugar crops,Sugar beet,Cropping year 2024,Cropping year,168.0,3847.0,22.8988
+Egypt,Qalyubia,EG-KB,Sugar crops,Sugarcane (for sugar),Cropping year 2024,Cropping year,186.0,6510.0,35.0
+Egypt,Qalyubia,EG-KB,Oilseeds,Sesame Seed,Cropping year 2024,Cropping year,270.0,135.0,0.5
+Egypt,Qalyubia,EG-KB,Oilseeds,Soybean (unspecified),Cropping year 2024,Cropping year,367.0,548.0,1.4932
+Egypt,Qena,EG-KN,Fruits,Mango,2016/2017,Perennial fruit crop,743.0,2981,4.0121
+Egypt,Qena,EG-KN,Fruits,Grapes,2016/2017,Perennial fruit crop,454.0,3066,6.7533
+Egypt,Qena,EG-KN,Fruits,Banana,2016/2017,Perennial fruit crop,6385.0,105691,16.553
+Egypt,Qena,EG-KN,Fruits,Guava,2016/2017,Perennial fruit crop,110.0,460,4.1818
+Egypt,Qena,EG-KN,Fruits,Fig,2016/2017,Perennial fruit crop,101.0,378,3.7426
+Egypt,Qena,EG-KN,Fruits,Pomegranate,2016/2017,Perennial fruit crop,58.0,223,3.8448
+Egypt,Qena,EG-KN,Cereals,Wheat Grain,Winter 2024,Winter,86429.0,230767.0,2.67
+Egypt,Qena,EG-KN,Cereals,Maize Grain (White),Summer 2024,Summer,13541.0,32861.6,2.4268
+Egypt,Qena,EG-KN,Cereals,Maize Grain (Yellow),Summer 2024,Summer,22711.0,52300.9,2.3029
+Egypt,Qena,EG-KN,Cereals,Rice (Paddy),,,,,
+Egypt,Qena,EG-KN,Cereals,Barley (Unspecified),Winter 2024,Winter,269.0,369.0,1.3717
+Egypt,Qena,EG-KN,Cereals,Sorghum,Cropping year 2024,Cropping year,45799.0,94977.0,2.0738
+Egypt,Qena,EG-KN,Fodder crops,Berseem,Cropping year 2012,Cropping year,577.0,10412.0,18.0451
+Egypt,Qena,EG-KN,Fodder crops,Alfalfa,Cropping year 2024,Cropping year,2627.0,107601.4,40.9598
+Egypt,Qena,EG-KN,Fodder crops,Green Fodder,Cropping year 2024,Cropping year,5246.0,85192.0,16.2394
+Egypt,Qena,EG-KN,Fodder crops,"Clover, tahreesh",,,,,
+Egypt,Qena,EG-KN,Vegetables,Tomato,Winter 2024,Winter,4296.0,73053.0,17.0049
+Egypt,Qena,EG-KN,Vegetables,Potato (unspecified),Cropping year 2024,Cropping year,11.0,99.0,9.0
+Egypt,Qena,EG-KN,Vegetables,Onions,Cropping year 2024,Cropping year,3301.0,53739.0,16.2796
+Egypt,Qena,EG-KN,Vegetables,Garlic (fresh),Cropping year 2024,Cropping year,195.0,1501.0,7.6974
+Egypt,Qena,EG-KN,Vegetables,Eggplant,Winter 2024,Winter,2115.0,26548.0,12.5522
+Egypt,Qena,EG-KN,Vegetables,Bell pepper,Cropping year 2024,Cropping year,888.0,7928.0,8.9279
+Egypt,Qena,EG-KN,Vegetables,Cucumber,Cropping year 2021,Cropping year,454.0,3528.0,7.7709
+Egypt,Qena,EG-KN,Vegetables,Squash (Unspecified),Cropping year 2024,Cropping year,7.0,40.0,5.7143
+Egypt,Qena,EG-KN,Vegetables,Watermelon,Cropping year 2021,Cropping year,2.0,17.0,8.5
+Egypt,Qena,EG-KN,Vegetables,Cabbage (Unspecified),Cropping year 2024,Cropping year,402.0,4807.0,11.9577
+Egypt,Qena,EG-KN,Sugar crops,Sugar beet,Cropping year 2024,Cropping year,189.0,4116.0,21.7778
+Egypt,Qena,EG-KN,Sugar crops,Sugarcane (for sugar),Cropping year 2024,Cropping year,115865.0,4996919.0,43.1271
+Egypt,Qena,EG-KN,Oilseeds,Sesame Seed,Cropping year 2024,Cropping year,1117.0,718.1,0.6429
+Egypt,Qena,EG-KN,Oilseeds,Soybean (unspecified),Cropping year 2024,Cropping year,34.0,45.0,1.3235
+Egypt,Red Sea,EG-BA,Fruits,Mango,2016/2017,Perennial fruit crop,0.0,0,
+Egypt,Red Sea,EG-BA,Fruits,Grapes,2016/2017,Perennial fruit crop,0.0,0,
+Egypt,Red Sea,EG-BA,Fruits,Banana,2016/2017,Perennial fruit crop,0.0,0,
+Egypt,Red Sea,EG-BA,Fruits,Guava,2016/2017,Perennial fruit crop,0.0,0,
+Egypt,Red Sea,EG-BA,Fruits,Fig,2016/2017,Perennial fruit crop,0.0,0,
+Egypt,Red Sea,EG-BA,Fruits,Pomegranate,2016/2017,Perennial fruit crop,0.0,0,
+Egypt,Red Sea,EG-BA,Cereals,Wheat Grain,,,,,
+Egypt,Red Sea,EG-BA,Cereals,Maize Grain (White),,,,,
+Egypt,Red Sea,EG-BA,Cereals,Maize Grain (Yellow),Summer 2008,Summer,130.0,1534.0,11.8
+Egypt,Red Sea,EG-BA,Cereals,Rice (Paddy),,,,,
+Egypt,Red Sea,EG-BA,Cereals,Barley (Unspecified),,,,,
+Egypt,Red Sea,EG-BA,Cereals,Sorghum,,,,,
+Egypt,Red Sea,EG-BA,Fodder crops,Berseem,,,,,
+Egypt,Red Sea,EG-BA,Fodder crops,Alfalfa,,,,,
+Egypt,Red Sea,EG-BA,Fodder crops,Green Fodder,Cropping year 2024,Cropping year,90.0,NC,
+Egypt,Red Sea,EG-BA,Fodder crops,"Clover, tahreesh",,,,,
+Egypt,Red Sea,EG-BA,Vegetables,Tomato,Winter 2012,Winter,4.0,8.0,2.0
+Egypt,Red Sea,EG-BA,Vegetables,Potato (unspecified),,,,,
+Egypt,Red Sea,EG-BA,Vegetables,Onions,Winter 1990,Winter,18.0,NC,
+Egypt,Red Sea,EG-BA,Vegetables,Garlic (fresh),,,,,
+Egypt,Red Sea,EG-BA,Vegetables,Eggplant,Winter 2011,Winter,2.0,25.0,12.5
+Egypt,Red Sea,EG-BA,Vegetables,Bell pepper,,,,,
+Egypt,Red Sea,EG-BA,Vegetables,Cucumber,,,,,
+Egypt,Red Sea,EG-BA,Vegetables,Squash (Unspecified),,,,,
+Egypt,Red Sea,EG-BA,Vegetables,Watermelon,,,,,
+Egypt,Red Sea,EG-BA,Vegetables,Cabbage (Unspecified),,,,,
+Egypt,Red Sea,EG-BA,Sugar crops,Sugar beet,,,,,
+Egypt,Red Sea,EG-BA,Sugar crops,Sugarcane (for sugar),,,,,
+Egypt,Red Sea,EG-BA,Oilseeds,Sesame Seed,,,,,
+Egypt,Red Sea,EG-BA,Oilseeds,Soybean (unspecified),,,,,
+Egypt,Sohag,EG-SHG,Fruits,Mango,2016/2017,Perennial fruit crop,400.0,1591,3.9775
+Egypt,Sohag,EG-SHG,Fruits,Grapes,2016/2017,Perennial fruit crop,343.0,3827,11.1574
+Egypt,Sohag,EG-SHG,Fruits,Banana,2016/2017,Perennial fruit crop,1729.0,35019,20.2539
+Egypt,Sohag,EG-SHG,Fruits,Guava,2016/2017,Perennial fruit crop,144.0,1139,7.9097
+Egypt,Sohag,EG-SHG,Fruits,Fig,2016/2017,Perennial fruit crop,44.0,323,7.3409
+Egypt,Sohag,EG-SHG,Fruits,Pomegranate,2016/2017,Perennial fruit crop,106.0,766,7.2264
+Egypt,Sohag,EG-SHG,Cereals,Wheat Grain,Winter 2024,Winter,183518.0,574260.0,3.1292
+Egypt,Sohag,EG-SHG,Cereals,Maize Grain (White),Summer 2024,Summer,162821.0,438538.5,2.6934
+Egypt,Sohag,EG-SHG,Cereals,Maize Grain (Yellow),Summer 2024,Summer,12160.0,33894.7,2.7874
+Egypt,Sohag,EG-SHG,Cereals,Rice (Paddy),,,,,
+Egypt,Sohag,EG-SHG,Cereals,Barley (Unspecified),Winter 2024,Winter,146.0,218.0,1.4932
+Egypt,Sohag,EG-SHG,Cereals,Sorghum,Cropping year 2024,Cropping year,81447.0,171562.2,2.1064
+Egypt,Sohag,EG-SHG,Fodder crops,Berseem,Cropping year 2012,Cropping year,662.0,5029.0,7.5967
+Egypt,Sohag,EG-SHG,Fodder crops,Alfalfa,Cropping year 2024,Cropping year,4393.0,175608.0,39.9745
+Egypt,Sohag,EG-SHG,Fodder crops,Green Fodder,Cropping year 2024,Cropping year,38681.0,313076.0,8.0938
+Egypt,Sohag,EG-SHG,Fodder crops,"Clover, tahreesh",Winter 2024,Winter,4471.0,103070.0,23.053
+Egypt,Sohag,EG-SHG,Vegetables,Tomato,Winter 2024,Winter,18912.0,448575.0,23.7191
+Egypt,Sohag,EG-SHG,Vegetables,Potato (unspecified),Cropping year 2024,Cropping year,7146.0,116766.0,16.3401
+Egypt,Sohag,EG-SHG,Vegetables,Onions,Cropping year 2024,Cropping year,25444.0,393992.0,15.4847
+Egypt,Sohag,EG-SHG,Vegetables,Garlic (fresh),Cropping year 2024,Cropping year,982.0,13553.0,13.8014
+Egypt,Sohag,EG-SHG,Vegetables,Eggplant,Winter 2024,Winter,726.0,7751.0,10.6763
+Egypt,Sohag,EG-SHG,Vegetables,Bell pepper,Cropping year 2024,Cropping year,1458.0,11159.0,7.6536
+Egypt,Sohag,EG-SHG,Vegetables,Cucumber,Cropping year 2021,Cropping year,173.0,2317.0,13.3931
+Egypt,Sohag,EG-SHG,Vegetables,Squash (Unspecified),Cropping year 2024,Cropping year,133.0,1367.0,10.2782
+Egypt,Sohag,EG-SHG,Vegetables,Watermelon,Cropping year 2021,Cropping year,24.0,359.0,14.9583
+Egypt,Sohag,EG-SHG,Vegetables,Cabbage (Unspecified),Cropping year 2024,Cropping year,270.0,3430.0,12.7037
+Egypt,Sohag,EG-SHG,Sugar crops,Sugar beet,Cropping year 2024,Cropping year,497.0,9914.0,19.9477
+Egypt,Sohag,EG-SHG,Sugar crops,Sugarcane (for sugar),Cropping year 2024,Cropping year,17427.0,704748.0,40.44
+Egypt,Sohag,EG-SHG,Oilseeds,Sesame Seed,Cropping year 2024,Cropping year,1208.0,721.4,0.5972
+Egypt,Sohag,EG-SHG,Oilseeds,Soybean (unspecified),Cropping year 2024,Cropping year,356.0,590.184,1.6578
+Egypt,South Sinai,EG-JS,Fruits,Mango,2016/2017,Perennial fruit crop,1474.0,2783,1.8881
+Egypt,South Sinai,EG-JS,Fruits,Grapes,2016/2017,Perennial fruit crop,210.0,235,1.119
+Egypt,South Sinai,EG-JS,Fruits,Banana,2016/2017,Perennial fruit crop,4.0,26,6.5
+Egypt,South Sinai,EG-JS,Fruits,Guava,2016/2017,Perennial fruit crop,236.0,299,1.2669
+Egypt,South Sinai,EG-JS,Fruits,Fig,2016/2017,Perennial fruit crop,170.0,102,0.6
+Egypt,South Sinai,EG-JS,Fruits,Pomegranate,2016/2017,Perennial fruit crop,776.0,1009,1.3003
+Egypt,South Sinai,EG-JS,Cereals,Wheat Grain,Winter 2024,Winter,800.0,366.0,0.4575
+Egypt,South Sinai,EG-JS,Cereals,Maize Grain (White),Summer 2022,Summer,10.0,13.0,1.3
+Egypt,South Sinai,EG-JS,Cereals,Maize Grain (Yellow),Cropping year 2014,Cropping year,5.0,3.0,0.6
+Egypt,South Sinai,EG-JS,Cereals,Rice (Paddy),,,,,
+Egypt,South Sinai,EG-JS,Cereals,Barley (Unspecified),Winter 2024,Winter,362.0,287.0,0.7928
+Egypt,South Sinai,EG-JS,Cereals,Sorghum,,,,,
+Egypt,South Sinai,EG-JS,Fodder crops,Berseem,,,,,
+Egypt,South Sinai,EG-JS,Fodder crops,Alfalfa,Cropping year 2024,Cropping year,920.0,22080.0,24.0
+Egypt,South Sinai,EG-JS,Fodder crops,Green Fodder,Cropping year 2024,Cropping year,500.0,1000.0,2.0
+Egypt,South Sinai,EG-JS,Fodder crops,"Clover, tahreesh",,,,,
+Egypt,South Sinai,EG-JS,Vegetables,Tomato,Winter 2024,Winter,139.0,659.0,4.741
+Egypt,South Sinai,EG-JS,Vegetables,Potato (unspecified),Cropping year 2024,Cropping year,17.0,87.0,5.1176
+Egypt,South Sinai,EG-JS,Vegetables,Onions,Cropping year 2024,Cropping year,50.0,325.0,6.5
+Egypt,South Sinai,EG-JS,Vegetables,Garlic (fresh),Cropping year 2024,Cropping year,12.0,96.0,8.0
+Egypt,South Sinai,EG-JS,Vegetables,Eggplant,Winter 2024,Winter,98.0,415.0,4.2347
+Egypt,South Sinai,EG-JS,Vegetables,Bell pepper,Cropping year 2024,Cropping year,121.0,379.0,3.1322
+Egypt,South Sinai,EG-JS,Vegetables,Cucumber,Cropping year 2021,Cropping year,75.0,430.0,5.7333
+Egypt,South Sinai,EG-JS,Vegetables,Squash (Unspecified),Cropping year 2024,Cropping year,35.0,132.0,3.7714
+Egypt,South Sinai,EG-JS,Vegetables,Watermelon,Cropping year 2021,Cropping year,25.0,125.0,5.0
+Egypt,South Sinai,EG-JS,Vegetables,Cabbage (Unspecified),Cropping year 2024,Cropping year,11.0,105.0,9.5455
+Egypt,South Sinai,EG-JS,Sugar crops,Sugar beet,,,,,
+Egypt,South Sinai,EG-JS,Sugar crops,Sugarcane (for sugar),,,,,
+Egypt,South Sinai,EG-JS,Oilseeds,Sesame Seed,Cropping year 2015,Cropping year,1.0004,1.0,0.9996
+Egypt,South Sinai,EG-JS,Oilseeds,Soybean (unspecified),,,,,
+Egypt,Suez,EG-SUZ,Fruits,Mango,2016/2017,Perennial fruit crop,14754.0,58307,3.9519
+Egypt,Suez,EG-SUZ,Fruits,Grapes,2016/2017,Perennial fruit crop,443.0,1595,3.6005
+Egypt,Suez,EG-SUZ,Fruits,Banana,2016/2017,Perennial fruit crop,7.0,77,11.0
+Egypt,Suez,EG-SUZ,Fruits,Guava,2016/2017,Perennial fruit crop,97.0,612,6.3093
+Egypt,Suez,EG-SUZ,Fruits,Fig,2016/2017,Perennial fruit crop,45.0,102,2.2667
+Egypt,Suez,EG-SUZ,Fruits,Pomegranate,2016/2017,Perennial fruit crop,782.0,2569,3.2852
+Egypt,Suez,EG-SUZ,Cereals,Wheat Grain,Winter 2024,Winter,3785.0,9655.0,2.5509
+Egypt,Suez,EG-SUZ,Cereals,Maize Grain (White),Summer 2024,Summer,1407.0,3412.0,2.425
+Egypt,Suez,EG-SUZ,Cereals,Maize Grain (Yellow),Summer 2024,Summer,1326.0,3267.0,2.4638
+Egypt,Suez,EG-SUZ,Cereals,Rice (Paddy),Cropping year 2024,Cropping year,353.0,1059.0,3.0
+Egypt,Suez,EG-SUZ,Cereals,Barley (Unspecified),Winter 2024,Winter,706.0,1098.0,1.5552
+Egypt,Suez,EG-SUZ,Cereals,Sorghum,,,,,
+Egypt,Suez,EG-SUZ,Fodder crops,Berseem,Cropping year 2012,Cropping year,360.0,5040.0,14.0
+Egypt,Suez,EG-SUZ,Fodder crops,Alfalfa,Cropping year 2024,Cropping year,1495.0,33177.0,22.192
+Egypt,Suez,EG-SUZ,Fodder crops,Green Fodder,Cropping year 2024,Cropping year,4764.0,61046.0,12.814
+Egypt,Suez,EG-SUZ,Fodder crops,"Clover, tahreesh",,,,,
+Egypt,Suez,EG-SUZ,Vegetables,Tomato,Winter 2024,Winter,2134.0,30609.0,14.3435
+Egypt,Suez,EG-SUZ,Vegetables,Potato (unspecified),Cropping year 2020,Cropping year,152.0,1202.0,7.9079
+Egypt,Suez,EG-SUZ,Vegetables,Onions,Cropping year 2024,Cropping year,713.0,8979.0,12.5933
+Egypt,Suez,EG-SUZ,Vegetables,Garlic (fresh),Cropping year 2024,Cropping year,233.0,2070.0,8.8841
+Egypt,Suez,EG-SUZ,Vegetables,Eggplant,Winter 2024,Winter,1157.0,9023.0,7.7986
+Egypt,Suez,EG-SUZ,Vegetables,Bell pepper,Cropping year 2024,Cropping year,1240.0,6309.0,5.0879
+Egypt,Suez,EG-SUZ,Vegetables,Cucumber,Cropping year 2021,Cropping year,137.0,823.0,6.0073
+Egypt,Suez,EG-SUZ,Vegetables,Squash (Unspecified),Cropping year 2024,Cropping year,328.0,1178.0,3.5915
+Egypt,Suez,EG-SUZ,Vegetables,Watermelon,Cropping year 2021,Cropping year,57.0,456.0,8.0
+Egypt,Suez,EG-SUZ,Vegetables,Cabbage (Unspecified),Cropping year 2024,Cropping year,474.0,3911.0,8.2511
+Egypt,Suez,EG-SUZ,Sugar crops,Sugar beet,Cropping year 2023,Cropping year,200.0,4000.0,20.0
+Egypt,Suez,EG-SUZ,Sugar crops,Sugarcane (for sugar),Cropping year 2019,Cropping year,2.0,80.0,40.0
+Egypt,Suez,EG-SUZ,Oilseeds,Sesame Seed,Cropping year 2024,Cropping year,632.0,60.0,0.0949
+Egypt,Suez,EG-SUZ,Oilseeds,Soybean (unspecified),Cropping year 2024,Cropping year,2.0,4.0,2.0

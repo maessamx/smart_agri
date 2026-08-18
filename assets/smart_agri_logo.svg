@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="230" viewBox="0 0 760 230">
+<defs><linearGradient id="g" x1="0" x2="1"><stop stop-color="#15563D"/><stop offset="1" stop-color="#76A94E"/></linearGradient></defs>
+<rect width="760" height="230" rx="34" fill="url(#g)"/>
+<g transform="translate(42 32)"><circle cx="84" cy="83" r="77" fill="#ffffff" opacity=".13"/><path d="M84 145 C30 113 38 44 84 24 C130 44 138 113 84 145Z" fill="#F5E8A5"/><path d="M84 142V57 M84 90 C60 77 50 59 47 43 M84 108 C107 92 119 71 121 51" stroke="#15563D" stroke-width="8" stroke-linecap="round" fill="none"/></g>
+<text x="190" y="101" font-family="Arial, sans-serif" font-size="56" font-weight="700" fill="white">SMART AGRI</text>
+<text x="194" y="149" font-family="Arial, sans-serif" font-size="28" letter-spacing="5" fill="#E2F1D9">EGYPT • SMART FARMING</text>
+</svg>
