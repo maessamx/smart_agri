@@ -100,7 +100,10 @@ pip install -r requirements.txt
 ```bash
 streamlit run app.py
 ```
-
+or with reload
+```bash
+streamlit run app.py --server.runOnSave true
+```
 The application opens through the local URL displayed in the terminal, usually:
 
 ```text
