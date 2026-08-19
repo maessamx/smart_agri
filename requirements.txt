@@ -5,3 +5,5 @@ plotly>=5.22
 folium>=0.17
 streamlit-folium>=0.22
 matplotlib>=3.8
+
+scikit-learn>=1.4

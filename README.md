@@ -34,7 +34,7 @@ The system is designed as a foundation for a broader smart agriculture platform 
 The project uses one local dataset:
 
 ```text
-data/output2.csv
+data/agriculture/agriculture_governorates_products.csv
 ```
 
 It contains governorate-level records for crops, cultivated area, production, yield, crop category, observation year, and season type.

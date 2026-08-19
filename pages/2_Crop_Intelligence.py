@@ -6,6 +6,8 @@ import streamlit as st
 from streamlit_folium import st_folium
 from src.geo_service import load_governorate_geojson
 from src.data_service import load_records, product_summary
+from src.analytics.metrics import METRICS, metric_column
+from src.analytics.charts import governorate_ranking_chart, stacked_category_chart
 from src.ui.component import initialize_page, hero, callout
 
 st.set_page_config(page_title='Crop Intelligence | Smart Agri Egypt', page_icon='🌱', layout='wide', initial_sidebar_state='expanded')
@@ -40,7 +42,7 @@ def build_map(summary, product, metric):
         st.warning('The governorate boundary layer is temporarily unavailable.')
     return fmap
 
-tab1, tab2, tab3 = st.tabs(['Best Crop by Governorate', 'Best Locations in Egypt', 'Interactive Product Map'])
+tab1, tab2, tab3, tab4, tab5 = st.tabs(['Best Crop by Governorate', 'Best Locations in Egypt', 'Interactive Product Map', 'Matplotlib Ranking', 'Stacked Bar Analysis'])
 with tab1:
     a, b = st.columns(2)
     governorate = a.selectbox('Governorate', sorted(records['governorate'].unique()))
@@ -68,7 +70,7 @@ with tab1:
 with tab2:
     product = st.selectbox('Product', sorted(records['product'].unique()), key='national_crop')
     display_metric = st.radio('Rank Governorates By', ['Cultivated Area', 'Production', 'Yield'], horizontal=True)
-    metric = {'Cultivated Area': 'area_feddan', 'Production': 'production_ton', 'Yield': 'yield_ton_per_feddan'}[display_metric]
+    metric = metric_column(display_metric)
     summary = product_summary(records, product, metric)
     if len(summary):
         leader = summary.iloc[0]
@@ -80,7 +82,20 @@ with tab2:
 with tab3:
     product = st.selectbox('Product to Display', sorted(records['product'].unique()), key='map_crop')
     display_metric = st.selectbox('Map Metric', ['Cultivated Area', 'Production', 'Yield'], key='map_metric')
-    metric = {'Cultivated Area': 'area_feddan', 'Production': 'production_ton', 'Yield': 'yield_ton_per_feddan'}[display_metric]
+    metric = metric_column(display_metric)
     summary = product_summary(records, product, metric)
     callout('The GeoJSON map colors governorates according to the selected crop metric. Select a product to view its main cultivation locations.')
     st_folium(build_map(summary, product, metric), height=570, use_container_width=True)
+
+with tab4:
+    a, b = st.columns(2)
+    product = a.selectbox('Product', sorted(records['product'].unique()), key='matplotlib_product')
+    display_metric = b.selectbox('Metric', ['Production', 'Cultivated Area', 'Yield'], key='matplotlib_metric')
+    metric = metric_column(display_metric)
+    summary = product_summary(records, product, metric).head(15).sort_values(metric)
+    st.pyplot(governorate_ranking_chart(summary, display_metric, metric), use_container_width=True)
+
+with tab5:
+    display_metric = st.selectbox('Stacked Bar Metric', ['Cultivated Area', 'Production'], key='stacked_metric')
+    metric = {'Cultivated Area': 'area_feddan', 'Production': 'production_ton'}[display_metric]
+    st.plotly_chart(stacked_category_chart(valid(records), display_metric, metric), use_container_width=True)

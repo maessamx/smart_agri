@@ -181,7 +181,7 @@ Use `st.cache_data` for data that should not be loaded again every rerun.
 ```python
 @st.cache_data
 def load_data():
-    return pd.read_csv("data/output2.csv")
+    return pd.read_csv("data/agriculture/agriculture_governorates_products.csv")
 
 data = load_data()
 ```

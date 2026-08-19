@@ -1,10 +1,9 @@
 import streamlit as st
-from src.data_preparation.clean_data import prepare_data
+from src.datasets.agriculture.preprocessing import clean_agriculture_data
+from src.datasets.agriculture.exploration import product_summary
 
 @st.cache_data
 def load_records():
-    return prepare_data()
+    return clean_agriculture_data()
 
-def product_summary(data, product, metric):
-    subset = data[data['product'].eq(product)].dropna(subset=[metric]).copy()
-    return subset.groupby('governorate', as_index=False)[metric].sum().sort_values(metric, ascending=False)
+__all__ = ['load_records', 'product_summary']
