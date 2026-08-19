@@ -14,7 +14,7 @@ NAME_MAPPING = {
     'As Suways': 'Suez'
 }
 
-@st.cache_data(ttl=86400, show_spinner=False)
+@st.cache_data(ttl=86400 , show_spinner=False)
 def load_governorate_geojson():
     response = requests.get(GEOJSON_URL, timeout=30)
     response.raise_for_status()
