@@ -6,7 +6,7 @@ def governorate_ranking_chart(summary, metric_label, metric_column):
     figure, axis = plt.subplots(figsize=(10, 6))
     axis.barh(summary['governorate'], summary[metric_column], color='#25734D')
     axis.set_xlabel(metric_label)
-    axis.set_ylabel('Governorate') 
+    axis.set_ylabel('Governorate')
     axis.grid(axis='x', alpha=0.18)
     axis.spines[['top', 'right']].set_visible(False)
     figure.tight_layout()
