@@ -1,0 +1,179 @@
+crop_type,season,ground_area_feddan,soil_type,yield_ton_per_feddan
+Wheat Grain,Winter,394146.0,Clayey,3.00699994418312
+Maize Grain (White),Summer,140950.0,Clayey,3.119198297268535
+Maize Grain (Yellow),Summer,55679.0,Clayey,3.062716643617881
+Barley (Unspecified),Winter,5466.0,Clayey,1.6379436516648371
+"Clover, tahreesh",Winter,1266.0,Clayey,11.636650868878357
+Tomato,Winter,38616.0,Clayey,16.611016159105034
+Eggplant,Winter,41359.0,Clayey,20.1486496288595
+Wheat Grain,Winter,21260.0,Clayey,2.7595484477892755
+Maize Grain (White),Summer,8393.0,Clayey,2.6167043965209102
+Maize Grain (Yellow),Summer,18125.0,Clayey,2.6631172413793105
+Barley (Unspecified),Winter,3994.0,Clayey,1.3377566349524286
+"Clover, tahreesh",Winter,1400.0,Clayey,20.0
+Tomato,Winter,30823.0,Clayey,17.011225383642085
+Eggplant,Winter,12172.0,Clayey,9.18230364771607
+Wheat Grain,Winter,305559.0,Sandy,2.789199467206006
+Maize Grain (White),Summer,2219.0,Sandy,2.3546642631816135
+Maize Grain (Yellow),Summer,21439.0,Sandy,2.346424739959886
+Barley (Unspecified),Winter,4774.0,Sandy,0.9754922496857981
+Tomato,Winter,2232.0,Sandy,5.823476702508961
+Eggplant,Winter,2134.0,Sandy,6.7099343955014055
+Wheat Grain,Winter,174757.0,Loamy,3.041034121666085
+Maize Grain (White),Summer,122629.0,Loamy,2.8426416263689664
+Maize Grain (Yellow),Summer,75393.0,Loamy,2.9359741620574855
+Barley (Unspecified),Winter,3229.0,Loamy,2.026323939300093
+"Clover, tahreesh",Winter,3727.0,Loamy,9.532063321706467
+Tomato,Winter,14323.0,Loamy,18.711862040075403
+Eggplant,Winter,2776.0,Loamy,10.601585014409222
+Wheat Grain,Winter,262721.0,Clayey,3.031740896235931
+Maize Grain (White),Summer,97993.0,Clayey,3.401702162399355
+Maize Grain (Yellow),Summer,140752.0,Clayey,3.3733232920313743
+Barley (Unspecified),Winter,171.0,Clayey,1.3333333333333333
+"Clover, tahreesh",Winter,47282.0,Clayey,13.05795017131255
+Tomato,Winter,40278.0,Clayey,13.887283380505487
+Eggplant,Winter,27377.0,Clayey,9.641195163823648
+Wheat Grain,Winter,119267.0,Loamy,3.084969019091618
+Maize Grain (White),Summer,155477.0,Loamy,3.077676440888363
+Maize Grain (Yellow),Summer,25861.0,Loamy,2.959143111248598
+Barley (Unspecified),Winter,18.0,Loamy,1.3333333333333333
+"Clover, tahreesh",Winter,7813.0,Loamy,5.200051196723409
+Tomato,Winter,19455.0,Loamy,18.033821639681317
+Eggplant,Winter,2468.0,Loamy,6.562803889789303
+Wheat Grain,Winter,21.0,Clayey,2.142857142857143
+Maize Grain (White),Summer,20.0,Clayey,2.8
+Barley (Unspecified),Winter,11.0,Clayey,1.8181818181818181
+Tomato,Winter,215.0,Clayey,9.116279069767442
+Eggplant,Winter,150.0,Clayey,10.466666666666667
+Wheat Grain,Winter,252297.0,Clayey,2.7851777864976595
+Maize Grain (White),Summer,60370.0,Clayey,3.699271161172768
+Maize Grain (Yellow),Summer,38872.0,Clayey,3.7373430747067298
+Barley (Unspecified),Winter,94.0,Clayey,1.9361702127659575
+"Clover, tahreesh",Winter,17529.0,Clayey,8.397113355011696
+Tomato,Winter,10609.0,Clayey,12.84390611744745
+Eggplant,Winter,6702.0,Clayey,19.911817367949865
+Wheat Grain,Winter,36138.0,Clayey,2.720875532680281
+Maize Grain (White),Summer,114.0,Clayey,2.3421052631578947
+Maize Grain (Yellow),Summer,78.0,Clayey,3.6538461538461537
+Barley (Unspecified),Winter,54.0,Clayey,1.5
+"Clover, tahreesh",Winter,1320.0,Clayey,15.0
+Tomato,Winter,3440.0,Clayey,14.784883720930232
+Eggplant,Winter,1288.0,Clayey,13.32996894409938
+Wheat Grain,Winter,171524.0,Loamy,2.85592686737716
+Maize Grain (White),Summer,79570.1,Loamy,2.777597363833902
+Maize Grain (Yellow),Summer,7891.0,Loamy,2.619401850209099
+Barley (Unspecified),Winter,3455.0,Loamy,1.9918958031837917
+"Clover, tahreesh",Winter,20559.0,Loamy,10.545162702466074
+Tomato,Winter,19939.0,Loamy,13.768142835648728
+Eggplant,Winter,3352.0,Loamy,5.830250596658711
+Wheat Grain,Winter,125526.0,Clayey,3.08399853416822
+Maize Grain (White),Summer,46823.0,Clayey,3.186083762253593
+Maize Grain (Yellow),Summer,7570.0,Clayey,3.1579920739762217
+Barley (Unspecified),Winter,23.0,Clayey,2.0434782608695654
+"Clover, tahreesh",Winter,6690.0,Clayey,6.421674140508221
+Tomato,Winter,427.0,Clayey,14.611241217798595
+Eggplant,Winter,1756.0,Clayey,11.317198177676538
+Wheat Grain,Winter,25000.0,Clayey,3.05496
+Maize Grain (White),Summer,35813.0,Clayey,3.051277469075475
+Maize Grain (Yellow),Summer,12386.0,Clayey,3.1220167931535605
+Rice (Paddy),Nili,18.0,Clayey,2.611111111111111
+Barley (Unspecified),Winter,43.0,Clayey,1.6744186046511629
+"Clover, tahreesh",Winter,12182.0,Clayey,14.021260876703332
+Tomato,Winter,17614.0,Clayey,18.521289883047576
+Eggplant,Winter,9266.0,Clayey,10.580941074897474
+Wheat Grain,Winter,37833.0,Sandy,2.5958290381413054
+Maize Grain (White),Summer,9774.0,Sandy,2.6083486801718845
+Maize Grain (Yellow),Summer,22082.0,Sandy,2.667602572230776
+Barley (Unspecified),Winter,1198.0,Sandy,1.5843071786310519
+"Clover, tahreesh",Winter,56473.0,Sandy,9.60703344961309
+Tomato,Winter,15148.0,Sandy,19.874768946395562
+Eggplant,Winter,7308.0,Sandy,12.978653530377668
+Wheat Grain,Winter,203350.0,Clayey,2.6409589377919844
+Maize Grain (White),Summer,24399.0,Clayey,3.3887454403869013
+Maize Grain (Yellow),Summer,17386.0,Clayey,3.232543425744852
+Barley (Unspecified),Winter,165.0,Clayey,1.606060606060606
+"Clover, tahreesh",Winter,34644.0,Clayey,20.59086710541508
+Tomato,Winter,12117.0,Clayey,18.70000825286787
+Eggplant,Winter,4528.0,Clayey,14.535335689045937
+Wheat Grain,Winter,29942.0,Sandy,2.581123505443858
+Maize Grain (White),Summer,1406.0,Sandy,2.507112375533428
+Maize Grain (Yellow),Summer,11787.0,Sandy,2.7291083396962756
+Barley (Unspecified),Winter,1222.0,Sandy,1.5450081833060556
+"Clover, tahreesh",Winter,487.0,Sandy,11.447638603696099
+Tomato,Winter,12863.0,Sandy,23.653735520485114
+Eggplant,Winter,5518.0,Sandy,10.25081551286698
+Wheat Grain,Winter,7290.0,Sandy,0.5071330589849108
+Maize Grain (White),Summer,150.0,Sandy,2.66
+Maize Grain (Yellow),Summer,12731.0,Sandy,2.4640012567748015
+Barley (Unspecified),Winter,62725.0,Sandy,0.029174970107612594
+Tomato,Winter,19692.0,Sandy,12.935557586837295
+Eggplant,Winter,1234.0,Sandy,9.231766612641815
+Wheat Grain,Winter,216398.0,Loamy,2.897683897263376
+Maize Grain (White),Summer,169241.0,Loamy,3.1511696338357726
+Maize Grain (Yellow),Summer,81222.0,Loamy,3.2243345399029817
+Rice (Paddy),Summer,36.0,Loamy,2.7222222222222223
+Barley (Unspecified),Winter,3376.0,Loamy,1.5207345971563981
+"Clover, tahreesh",Winter,235.0,Loamy,3.0808510638297872
+Tomato,Winter,27991.0,Loamy,11.780250794898361
+Eggplant,Winter,8320.0,Loamy,10.040024038461539
+Wheat Grain,Winter,99969.0,Clayey,3.2910002100651203
+Maize Grain (White),Summer,132641.0,Clayey,3.3809983338485083
+Maize Grain (Yellow),Summer,44507.0,Clayey,3.3614038241175543
+Barley (Unspecified),Winter,155.0,Clayey,1.1806451612903226
+"Clover, tahreesh",Winter,850.0,Clayey,8.0
+Tomato,Winter,199.0,Clayey,15.798994974874372
+Eggplant,Winter,444.0,Clayey,12.635135135135135
+Wheat Grain,Winter,327830.0,Sandy,2.698499222157826
+Maize Grain (White),Summer,6957.0,Sandy,2.730056058645968
+Maize Grain (Yellow),Summer,65116.0,Sandy,2.850400823146385
+Barley (Unspecified),Winter,34733.0,Sandy,1.9199896352172285
+Tomato,Winter,1988.0,Sandy,7.656941649899396
+Eggplant,Winter,342.0,Sandy,4.286549707602339
+Wheat Grain,Winter,343.0,Sandy,0.2857142857142857
+Maize Grain (White),Summer,83.0,Sandy,2.144578313253012
+Barley (Unspecified),Winter,1108.0,Sandy,0.10108303249097472
+Tomato,Winter,1328.0,Sandy,11.442018072289157
+Eggplant,Winter,163.0,Sandy,7.171779141104294
+Sugar beet,Winter,2.0,Sandy,10.0
+Wheat Grain,Winter,13162.0,Sandy,1.8000303905181583
+Maize Grain (White),Summer,4573.0,Sandy,2.4920183686857644
+Maize Grain (Yellow),Summer,629.0,Sandy,2.379968203497615
+Barley (Unspecified),Winter,4466.0,Sandy,1.1999552171965966
+"Clover, tahreesh",Winter,11000.0,Sandy,20.0
+Tomato,Winter,218.0,Sandy,5.5963302752293576
+Eggplant,Winter,69.0,Sandy,8.0
+Watermelon,Summer,7.1429,Sandy,0.8819947080317517
+Wheat Grain,Winter,39165.0,Clayey,2.986493042257117
+Maize Grain (White),Summer,50851.0,Clayey,3.289414170812767
+Maize Grain (Yellow),Summer,9007.0,Clayey,3.34462085044965
+Barley (Unspecified),Winter,8.0,Clayey,1.5
+"Clover, tahreesh",Winter,10470.0,Clayey,11.112702960840497
+Tomato,Winter,1553.0,Clayey,12.594977462974887
+Eggplant,Winter,3622.0,Clayey,0.3503589177250138
+Wheat Grain,Winter,86429.0,Sandy,2.670018165199181
+Maize Grain (White),Summer,13541.0,Sandy,2.4268222435566056
+Maize Grain (Yellow),Summer,22711.0,Sandy,2.3028884681431907
+Barley (Unspecified),Winter,269.0,Sandy,1.3717472118959109
+Tomato,Winter,4296.0,Sandy,17.004888268156424
+Eggplant,Winter,2115.0,Sandy,12.552245862884162
+Maize Grain (Yellow),Summer,130.0,Sandy,11.8
+Tomato,Winter,4.0,Sandy,2.0
+Eggplant,Winter,2.0,Sandy,12.5
+Wheat Grain,Winter,183518.0,Loamy,3.1291753397486897
+Maize Grain (White),Summer,162821.0,Loamy,2.6933780040658144
+Maize Grain (Yellow),Summer,12160.0,Loamy,2.7873930921052628
+Barley (Unspecified),Winter,146.0,Loamy,1.4931506849315068
+"Clover, tahreesh",Winter,4471.0,Loamy,23.053008275553566
+Tomato,Winter,18912.0,Loamy,23.71906725888325
+Eggplant,Winter,726.0,Loamy,10.676308539944904
+Wheat Grain,Winter,800.0,Sandy,0.4575
+Maize Grain (White),Summer,10.0,Sandy,1.3
+Barley (Unspecified),Winter,362.0,Sandy,0.7928176795580111
+Tomato,Winter,139.0,Sandy,4.741007194244604
+Eggplant,Winter,98.0,Sandy,4.23469387755102
+Wheat Grain,Winter,3785.0,Sandy,2.5508586525759576
+Maize Grain (White),Summer,1407.0,Sandy,2.4250177683013505
+Maize Grain (Yellow),Summer,1326.0,Sandy,2.4638009049773757
+Barley (Unspecified),Winter,706.0,Sandy,1.5552407932011332
+Tomato,Winter,2134.0,Sandy,14.34348641049672
+Eggplant,Winter,1157.0,Sandy,7.798617113223854
