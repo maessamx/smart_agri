@@ -1,3 +1,7 @@
-.venv/ 
-__pycache__/ 
-*.pyc 
+.venv/
+__pycache__/
+*.pyc
+.env
+data/production/
+src/datasets/production/
+src/ui/component.py.before_dark
