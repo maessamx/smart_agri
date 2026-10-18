@@ -10,7 +10,7 @@ ROOT = Path(__file__).parent
 records = load_records()
 
 st.image(str(ROOT / 'assets' / 'smart_agri_logo.svg'), width=310)
-hero('Smart Agri Egypt', PROJECT_SUBTITLE)
+hero('Smart Agri Egypt', PROJECT_SUBTITLE) 
 
 col1, col2, col3 = st.columns(3)
 features = [
